@@ -1,7 +1,7 @@
 [
  {
-  "arquivo": "am-010.kmz",
-  "url": "kml/1-rodovias/am-010/am-010.kmz",
+  "arquivo": "AM-010.kmz",
+  "url": "kml/rodovias/AM-010.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-010",
   "ramal_key": null,
@@ -9,17 +9,8 @@
   "principal": true
  },
  {
-  "arquivo": "km-47-am-010.kmz",
-  "url": "kml/1-rodovias/am-010/km-47-am-010.kmz",
-  "tipo": "rodovia",
-  "rodovia": "AM-010",
-  "ramal_key": null,
-  "municipio": null,
-  "principal": false
- },
- {
-  "arquivo": "am-020.kmz",
-  "url": "kml/1-rodovias/am-020/am-020.kmz",
+  "arquivo": "AM-020.kmz",
+  "url": "kml/rodovias/AM-020.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-020",
   "ramal_key": null,
@@ -27,8 +18,8 @@
   "principal": true
  },
  {
-  "arquivo": "am-070.kmz",
-  "url": "kml/1-rodovias/am-070/am-070.kmz",
+  "arquivo": "AM-070.kmz",
+  "url": "kml/rodovias/AM-070.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-070",
   "ramal_key": null,
@@ -36,8 +27,62 @@
   "principal": true
  },
  {
-  "arquivo": "am-254.kmz",
-  "url": "kml/1-rodovias/am-254/am-254.kmz",
+  "arquivo": "AM-151.kmz",
+  "url": "kml/rodovias/AM-151.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-151",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-170.kmz",
+  "url": "kml/rodovias/AM-170.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-170",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-175.kmz",
+  "url": "kml/rodovias/AM-175.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-175",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-239.kmz",
+  "url": "kml/rodovias/AM-239.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-239",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-240.kmz",
+  "url": "kml/rodovias/AM-240.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-240",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-249.kmz",
+  "url": "kml/rodovias/AM-249.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-249",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-254.kmz",
+  "url": "kml/rodovias/AM-254.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-254",
   "ramal_key": null,
@@ -45,26 +90,80 @@
   "principal": true
  },
  {
-  "arquivo": "km-71.kmz",
-  "url": "kml/1-rodovias/am-256/km-71.kmz",
+  "arquivo": "AM-280.kmz",
+  "url": "kml/rodovias/AM-280.kmz",
   "tipo": "rodovia",
-  "rodovia": "AM-256",
+  "rodovia": "AM-280",
   "ramal_key": null,
   "municipio": null,
-  "principal": false
+  "principal": true
  },
  {
-  "arquivo": "km-81.kmz",
-  "url": "kml/1-rodovias/am-256/km-81.kmz",
+  "arquivo": "AM-326.kmz",
+  "url": "kml/rodovias/AM-326.kmz",
   "tipo": "rodovia",
-  "rodovia": "AM-256",
+  "rodovia": "AM-326",
   "ramal_key": null,
   "municipio": null,
-  "principal": false
+  "principal": true
  },
  {
-  "arquivo": "am-352.kmz",
-  "url": "kml/1-rodovias/am-352/am-352.kmz",
+  "arquivo": "AM-328.kmz",
+  "url": "kml/rodovias/AM-328.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-328",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-329.kmz",
+  "url": "kml/rodovias/AM-329.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-329",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-330.kmz",
+  "url": "kml/rodovias/AM-330.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-330",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-336.kmz",
+  "url": "kml/rodovias/AM-336.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-336",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-343.kmz",
+  "url": "kml/rodovias/AM-343.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-343",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-351.kmz",
+  "url": "kml/rodovias/AM-351.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-351",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-352.kmz",
+  "url": "kml/rodovias/AM-352.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-352",
   "ramal_key": null,
@@ -72,8 +171,8 @@
   "principal": true
  },
  {
-  "arquivo": "am-354.kmz",
-  "url": "kml/1-rodovias/am-354/am-354.kmz",
+  "arquivo": "AM-354.kmz",
+  "url": "kml/rodovias/AM-354.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-354",
   "ramal_key": null,
@@ -81,17 +180,116 @@
   "principal": true
  },
  {
-  "arquivo": "am-453-nc-nao-conformidades.kmz",
-  "url": "kml/1-rodovias/am-453/am-453-nc-nao-conformidades.kmz",
+  "arquivo": "AM-356.kmz",
+  "url": "kml/rodovias/AM-356.kmz",
   "tipo": "rodovia",
-  "rodovia": "AM-453",
+  "rodovia": "AM-356",
   "ramal_key": null,
   "municipio": null,
-  "principal": false
+  "principal": true
  },
  {
-  "arquivo": "am-453.kmz",
-  "url": "kml/1-rodovias/am-453/am-453.kmz",
+  "arquivo": "AM-360.kmz",
+  "url": "kml/rodovias/AM-360.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-360",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-362.kmz",
+  "url": "kml/rodovias/AM-362.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-362",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-363.kmz",
+  "url": "kml/rodovias/AM-363.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-363",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-364.kmz",
+  "url": "kml/rodovias/AM-364.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-364",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-366.kmz",
+  "url": "kml/rodovias/AM-366.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-366",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-374.kmz",
+  "url": "kml/rodovias/AM-374.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-374",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-378.kmz",
+  "url": "kml/rodovias/AM-378.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-378",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-449.kmz",
+  "url": "kml/rodovias/AM-449.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-449",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-450.kmz",
+  "url": "kml/rodovias/AM-450.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-450",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-451.kmz",
+  "url": "kml/rodovias/AM-451.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-451",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-452.kmz",
+  "url": "kml/rodovias/AM-452.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-452",
+  "ramal_key": null,
+  "municipio": null,
+  "principal": true
+ },
+ {
+  "arquivo": "AM-453.kmz",
+  "url": "kml/rodovias/AM-453.kmz",
   "tipo": "rodovia",
   "rodovia": "AM-453",
   "ramal_key": null,
@@ -99,324 +297,7252 @@
   "principal": true
  },
  {
-  "arquivo": "br174.kmz",
-  "url": "kml/1-rodovias/br-174/br174.kmz",
+  "arquivo": "AM-466.kmz",
+  "url": "kml/rodovias/AM-466.kmz",
   "tipo": "rodovia",
-  "rodovia": "BR-174",
+  "rodovia": "AM-466",
   "ramal_key": null,
   "municipio": null,
   "principal": true
  },
  {
-  "arquivo": "rmita_183-estrada-do-novo-remanso.kmz",
-  "url": "kml/2-ramais/am-010/estrada-do-novo-remanso/rmita_183-estrada-do-novo-remanso.kmz",
+  "arquivo": "RMALV_1.kmz",
+  "url": "kml/ramais/RMALV_1.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-010",
-  "ramal_key": "RMITA_183",
-  "municipio": "ITACOATIARA"
+  "rodovia": "AM-363",
+  "ramal_key": "RMALV_1",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmmao_251-ramal-agua-branca.kmz",
-  "url": "kml/2-ramais/am-010/ramal-agua-branca/rmmao_251-ramal-agua-branca.kmz",
+  "arquivo": "RMALV_611.kmz",
+  "url": "kml/ramais/RMALV_611.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-010",
-  "ramal_key": "RMMAO_251",
-  "municipio": "MANAUS"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_611",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmrpe_448-ramal-manapolis.kmz",
-  "url": "kml/2-ramais/am-010/ramal-manapolis/rmrpe_448-ramal-manapolis.kmz",
+  "arquivo": "RMALV_612.kmz",
+  "url": "kml/ramais/RMALV_612.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-010",
-  "ramal_key": "RMRPE_448",
-  "municipio": "RIO PRETO DA EVA"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_612",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmmao_334-ramal-santo-antonio.kmz",
-  "url": "kml/2-ramais/am-010/ramal-santo-antonio/rmmao_334-ramal-santo-antonio.kmz",
+  "arquivo": "RMALV_613.kmz",
+  "url": "kml/ramais/RMALV_613.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-010",
-  "ramal_key": "RMMAO_334",
-  "municipio": "MANAUS"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_613",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmrpe_455-ramal-sulivan-portela.kmz",
-  "url": "kml/2-ramais/am-010/ramal-sulivan-portela/rmrpe_455-ramal-sulivan-portela.kmz",
+  "arquivo": "RMALV_614.kmz",
+  "url": "kml/ramais/RMALV_614.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-010",
-  "ramal_key": "RMRPE_455",
-  "municipio": "RIO PRETO DA EVA"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_614",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmita_138-ramal-terra-preta.kmz",
-  "url": "kml/2-ramais/am-010/ramal-terra-preta/rmita_138-ramal-terra-preta.kmz",
+  "arquivo": "RMALV_615.kmz",
+  "url": "kml/ramais/RMALV_615.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-010",
-  "ramal_key": "RMITA_138",
-  "municipio": "ITACOATIARA"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_615",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmira_118-ramal-do-janauari.kmz",
-  "url": "kml/2-ramais/am-070/ramal-do-janauari/rmira_118-ramal-do-janauari.kmz",
+  "arquivo": "RMALV_616.kmz",
+  "url": "kml/ramais/RMALV_616.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-070",
-  "ramal_key": "RMIRA_118",
-  "municipio": "IRANDUBA"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_616",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmprf_399-ramal-da-morena.kmz",
-  "url": "kml/2-ramais/am-240/ramal-da-morena/rmprf_399-ramal-da-morena.kmz",
+  "arquivo": "RMALV_621.kmz",
+  "url": "kml/ramais/RMALV_621.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-240",
-  "ramal_key": "RMPRF_399",
-  "municipio": "PRESIDENTE FIGUEIREDO"
+  "rodovia": "AM-362",
+  "ramal_key": "RMALV_621",
+  "municipio": "AlvarÃ£es"
  },
  {
-  "arquivo": "rmprf_388-ramal-marcos-freire-1.kmz",
-  "url": "kml/2-ramais/am-240/ramal-marcos-freire-1/rmprf_388-ramal-marcos-freire-1.kmz",
+  "arquivo": "RMAMT_622.kmz",
+  "url": "kml/ramais/RMAMT_622.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-240",
-  "ramal_key": "RMPRF_388",
-  "municipio": "PRESIDENTE FIGUEIREDO"
+  "rodovia": "-",
+  "ramal_key": "RMAMT_622",
+  "municipio": "AmaturÃ¡"
  },
  {
-  "arquivo": "rmprf_390-ramal-marcos-freire-2.kmz",
-  "url": "kml/2-ramais/am-240/ramal-marcos-freire-2/rmprf_390-ramal-marcos-freire-2.kmz",
+  "arquivo": "RMAMT_786.kmz",
+  "url": "kml/ramais/RMAMT_786.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-240",
-  "ramal_key": "RMPRF_390",
-  "municipio": "PRESIDENTE FIGUEIREDO"
+  "rodovia": "-",
+  "ramal_key": "RMAMT_786",
+  "municipio": "AmaturÃ¡"
  },
  {
-  "arquivo": "rmprf_389-sub.-ramal-marcos-freie-1-km-8.kmz",
-  "url": "kml/2-ramais/am-240/sub.-ramal-marcos-freie-1-km-8/rmprf_389-sub.-ramal-marcos-freie-1-km-8.kmz",
+  "arquivo": "RMANM_2.kmz",
+  "url": "kml/ramais/RMANM_2.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-240",
-  "ramal_key": "RMPRF_389",
-  "municipio": "PRESIDENTE FIGUEIREDO"
+  "rodovia": "ESTRADA ANAMA CUIA",
+  "ramal_key": "RMANM_2",
+  "municipio": "AnamÃ£"
  },
  {
-  "arquivo": "rmatz_27-ramal-do-marechal-rondon.kmz",
-  "url": "kml/2-ramais/am-254/ramal-do-marechal-rondon/rmatz_27-ramal-do-marechal-rondon.kmz",
+  "arquivo": "RMANM_573.kmz",
+  "url": "kml/ramais/RMANM_573.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_573",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANM_574.kmz",
+  "url": "kml/ramais/RMANM_574.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_574",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANM_575.kmz",
+  "url": "kml/ramais/RMANM_575.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_575",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANM_576.kmz",
+  "url": "kml/ramais/RMANM_576.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_576",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANM_578.kmz",
+  "url": "kml/ramais/RMANM_578.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_578",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANM_579.kmz",
+  "url": "kml/ramais/RMANM_579.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_579",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANM_580.kmz",
+  "url": "kml/ramais/RMANM_580.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMANM_580",
+  "municipio": "AnamÃ£"
+ },
+ {
+  "arquivo": "RMANR_3.kmz",
+  "url": "kml/ramais/RMANR_3.kmz",
+  "tipo": "ramal",
+  "rodovia": "R.PROF. ALMIR",
+  "ramal_key": "RMANR_3",
+  "municipio": "Anori"
+ },
+ {
+  "arquivo": "RMANR_474.kmz",
+  "url": "kml/ramais/RMANR_474.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. RAIMUNDO PINTO BRANDÃO",
+  "ramal_key": "RMANR_474",
+  "municipio": "Anori"
+ },
+ {
+  "arquivo": "RMANR_475.kmz",
+  "url": "kml/ramais/RMANR_475.kmz",
+  "tipo": "ramal",
+  "rodovia": "ORLA",
+  "ramal_key": "RMANR_475",
+  "municipio": "Anori"
+ },
+ {
+  "arquivo": "RMAPÃ_476.kmz",
+  "url": "kml/ramais/RMAPÃ_476.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_476",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_477.kmz",
+  "url": "kml/ramais/RMAPÃ_477.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMAPÃ_477",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_478.kmz",
+  "url": "kml/ramais/RMAPÃ_478.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL DO AIRQUEMES",
+  "ramal_key": "RMAPÃ_478",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_480.kmz",
+  "url": "kml/ramais/RMAPÃ_480.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_480",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_481.kmz",
+  "url": "kml/ramais/RMAPÃ_481.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_481",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_482.kmz",
+  "url": "kml/ramais/RMAPÃ_482.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_482",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_483.kmz",
+  "url": "kml/ramais/RMAPÃ_483.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_483",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_484.kmz",
+  "url": "kml/ramais/RMAPÃ_484.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_484",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_485.kmz",
+  "url": "kml/ramais/RMAPÃ_485.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_485",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_486.kmz",
+  "url": "kml/ramais/RMAPÃ_486.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_486",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_487.kmz",
+  "url": "kml/ramais/RMAPÃ_487.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMAPÃ_487",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_488.kmz",
+  "url": "kml/ramais/RMAPÃ_488.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL CORUJA 03",
+  "ramal_key": "RMAPÃ_488",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_489.kmz",
+  "url": "kml/ramais/RMAPÃ_489.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. BAHIA",
+  "ramal_key": "RMAPÃ_489",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_490.kmz",
+  "url": "kml/ramais/RMAPÃ_490.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. BAHIA",
+  "ramal_key": "RMAPÃ_490",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_491.kmz",
+  "url": "kml/ramais/RMAPÃ_491.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMAPÃ_491",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_492.kmz",
+  "url": "kml/ramais/RMAPÃ_492.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-174",
+  "ramal_key": "RMAPÃ_492",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMAPÃ_494.kmz",
+  "url": "kml/ramais/RMAPÃ_494.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA CORUJA",
+  "ramal_key": "RMAPÃ_494",
+  "municipio": "ApuÃ­"
+ },
+ {
+  "arquivo": "RMATN_495.kmz",
+  "url": "kml/ramais/RMATN_495.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMATN_495",
+  "municipio": "Atalaia do Norte"
+ },
+ {
+  "arquivo": "RMATN_496.kmz",
+  "url": "kml/ramais/RMATN_496.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. AUGUSTO LUZEIRO",
+  "ramal_key": "RMATN_496",
+  "municipio": "Atalaia do Norte"
+ },
+ {
+  "arquivo": "RMATZ_10.kmz",
+  "url": "kml/ramais/RMATZ_10.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_10",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_11.kmz",
+  "url": "kml/ramais/RMATZ_11.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_11",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_12.kmz",
+  "url": "kml/ramais/RMATZ_12.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_12",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_13.kmz",
+  "url": "kml/ramais/RMATZ_13.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_13",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_14.kmz",
+  "url": "kml/ramais/RMATZ_14.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_14",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_15.kmz",
+  "url": "kml/ramais/RMATZ_15.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_15",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_16.kmz",
+  "url": "kml/ramais/RMATZ_16.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_16",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_17.kmz",
+  "url": "kml/ramais/RMATZ_17.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_17",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_18.kmz",
+  "url": "kml/ramais/RMATZ_18.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_18",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_19.kmz",
+  "url": "kml/ramais/RMATZ_19.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_19",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_20.kmz",
+  "url": "kml/ramais/RMATZ_20.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_20",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_21.kmz",
+  "url": "kml/ramais/RMATZ_21.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_21",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_22.kmz",
+  "url": "kml/ramais/RMATZ_22.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_22",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_23.kmz",
+  "url": "kml/ramais/RMATZ_23.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_23",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_24.kmz",
+  "url": "kml/ramais/RMATZ_24.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_24",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_25.kmz",
+  "url": "kml/ramais/RMATZ_25.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_25",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_26.kmz",
+  "url": "kml/ramais/RMATZ_26.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_26",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_27.kmz",
+  "url": "kml/ramais/RMATZ_27.kmz",
   "tipo": "ramal",
   "rodovia": "AM-254",
   "ramal_key": "RMATZ_27",
-  "municipio": "AUTAZES"
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmatz_28-ramal-sao-felix.kmz",
-  "url": "kml/2-ramais/am-254/ramal-sao-felix/rmatz_28-ramal-sao-felix.kmz",
+  "arquivo": "RMATZ_28.kmz",
+  "url": "kml/ramais/RMATZ_28.kmz",
   "tipo": "ramal",
   "rodovia": "AM-254",
   "ramal_key": "RMATZ_28",
-  "municipio": "AUTAZES"
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmmaq_244-ramal-do-barro-alto-2.kmz",
-  "url": "kml/2-ramais/am-354/ramal-do-barro-alto/rmmaq_244-ramal-do-barro-alto-2.kmz",
+  "arquivo": "RMATZ_29.kmz",
+  "url": "kml/ramais/RMATZ_29.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-354",
-  "ramal_key": "RMMAQ_244",
-  "municipio": "MANAQUIRI"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_29",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmmaq_244-ramal-do-barro-alto.kmz",
-  "url": "kml/2-ramais/am-354/ramal-do-barro-alto/rmmaq_244-ramal-do-barro-alto.kmz",
+  "arquivo": "RMATZ_30.kmz",
+  "url": "kml/ramais/RMATZ_30.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-354",
-  "ramal_key": "RMMAQ_244",
-  "municipio": "MANAQUIRI"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_30",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmtef_465-ramal-do-pavao.kmz",
-  "url": "kml/2-ramais/am-366/ramal-do-pavao/rmtef_465-ramal-do-pavao.kmz",
+  "arquivo": "RMATZ_31.kmz",
+  "url": "kml/ramais/RMATZ_31.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-366",
-  "ramal_key": "RMTEF_465",
-  "municipio": "TEFÃ"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_31",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmira_126-ramal-do-jandira.kmz",
-  "url": "kml/2-ramais/am-452/ramal-do-jandira/rmira_126-ramal-do-jandira.kmz",
+  "arquivo": "RMATZ_32.kmz",
+  "url": "kml/ramais/RMATZ_32.kmz",
   "tipo": "ramal",
-  "rodovia": "AM-452",
-  "ramal_key": "RMIRA_126",
-  "municipio": "IRANDUBA"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_32",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmmao_330-ramal-do-pau-rosa.kmz",
-  "url": "kml/2-ramais/br-174/ramal-do-pau-rosa/rmmao_330-ramal-do-pau-rosa.kmz",
+  "arquivo": "RMATZ_33.kmz",
+  "url": "kml/ramais/RMATZ_33.kmz",
   "tipo": "ramal",
-  "rodovia": "BR-174",
-  "ramal_key": "RMMAO_330",
-  "municipio": "MANAUS"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_33",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmcro_65-ramal-cabeceira-do-purupuru-2.kmz",
-  "url": "kml/2-ramais/br-319/ramal-cabeceira-do-purupuru/rmcro_65-ramal-cabeceira-do-purupuru-2.kmz",
+  "arquivo": "RMATZ_34.kmz",
+  "url": "kml/ramais/RMATZ_34.kmz",
   "tipo": "ramal",
-  "rodovia": "BR-319",
-  "ramal_key": "RMCRO_65",
-  "municipio": "CAREIRO"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_34",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmcro_65-ramal-cabeceira-do-purupuru.kmz",
-  "url": "kml/2-ramais/br-319/ramal-cabeceira-do-purupuru/rmcro_65-ramal-cabeceira-do-purupuru.kmz",
+  "arquivo": "RMATZ_35.kmz",
+  "url": "kml/ramais/RMATZ_35.kmz",
   "tipo": "ramal",
-  "rodovia": "BR-319",
-  "ramal_key": "RMCRO_65",
-  "municipio": "CAREIRO"
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_35",
+  "municipio": "Autazes"
  },
  {
-  "arquivo": "rmbba_45-estrada-do-mapia.kmz",
-  "url": "kml/2-ramais/estrada-borba-mapia/estrada-do-mapia/rmbba_45-estrada-do-mapia.kmz",
+  "arquivo": "RMATZ_36.kmz",
+  "url": "kml/ramais/RMATZ_36.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_36",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_37.kmz",
+  "url": "kml/ramais/RMATZ_37.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SAMPAIO",
+  "ramal_key": "RMATZ_37",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_38.kmz",
+  "url": "kml/ramais/RMATZ_38.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SAMPAIO",
+  "ramal_key": "RMATZ_38",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_39.kmz",
+  "url": "kml/ramais/RMATZ_39.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SAMPAIO",
+  "ramal_key": "RMATZ_39",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_4.kmz",
+  "url": "kml/ramais/RMATZ_4.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_4",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_40.kmz",
+  "url": "kml/ramais/RMATZ_40.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_40",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_41.kmz",
+  "url": "kml/ramais/RMATZ_41.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_41",
+  "municipio": "Nova Olinda do Norte"
+ },
+ {
+  "arquivo": "RMATZ_42.kmz",
+  "url": "kml/ramais/RMATZ_42.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_42",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_43.kmz",
+  "url": "kml/ramais/RMATZ_43.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB.RAMAL AZ-3",
+  "ramal_key": "RMATZ_43",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMATZ_44.kmz",
+  "url": "kml/ramais/RMATZ_44.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_44",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_498.kmz",
+  "url": "kml/ramais/RMATZ_498.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SAMPAIO",
+  "ramal_key": "RMATZ_498",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_499.kmz",
+  "url": "kml/ramais/RMATZ_499.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SAMPAIO",
+  "ramal_key": "RMATZ_499",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_5.kmz",
+  "url": "kml/ramais/RMATZ_5.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_5",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_6.kmz",
+  "url": "kml/ramais/RMATZ_6.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_6",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_7.kmz",
+  "url": "kml/ramais/RMATZ_7.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_7",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_785.kmz",
+  "url": "kml/ramais/RMATZ_785.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_785",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_8.kmz",
+  "url": "kml/ramais/RMATZ_8.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_8",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMATZ_9.kmz",
+  "url": "kml/ramais/RMATZ_9.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_9",
+  "municipio": "Autazes"
+ },
+ {
+  "arquivo": "RMBBA_45.kmz",
+  "url": "kml/ramais/RMBBA_45.kmz",
   "tipo": "ramal",
   "rodovia": "ESTRADA BORBA MAPIÃ",
   "ramal_key": "RMBBA_45",
-  "municipio": "BORBA"
+  "municipio": "Borba"
  },
  {
-  "arquivo": "rmgua_74-ramal-do-porto-do-acai.kmz",
-  "url": "kml/2-ramais/estrada-da-floresta/ramal-do-porto-do-acai/rmgua_74-ramal-do-porto-do-acai.kmz",
+  "arquivo": "RMBBA_511.kmz",
+  "url": "kml/ramais/RMBBA_511.kmz",
   "tipo": "ramal",
-  "rodovia": "ESTRADA DA FLORESTA",
-  "ramal_key": "RMGUA_74",
-  "municipio": "GUAJARÃ"
+  "rodovia": "ESTRADA BORBA MAPIA",
+  "ramal_key": "RMBBA_511",
+  "municipio": "Borba"
  },
  {
-  "arquivo": "rmita_184-estrada-do-engenho.kmz",
-  "url": "kml/2-ramais/estrada-do-novo-remanso/estrada-do-engenho/rmita_184-estrada-do-engenho.kmz",
+  "arquivo": "RMBBA_512.kmz",
+  "url": "kml/ramais/RMBBA_512.kmz",
   "tipo": "ramal",
-  "rodovia": "ESTRADA DO NOVO REMANSO",
-  "ramal_key": "RMITA_184",
-  "municipio": "ITACOATIARA"
+  "rodovia": "R. MAL. DEODORO",
+  "ramal_key": "RMBBA_512",
+  "municipio": "Borba"
  },
  {
-  "arquivo": "rmspo_456-estrada-joaquim-santana.kmz",
-  "url": "kml/2-ramais/r.-dez-de-novembro/estrada-joaquim-santana/rmspo_456-estrada-joaquim-santana.kmz",
+  "arquivo": "RMBBA_632.kmz",
+  "url": "kml/ramais/RMBBA_632.kmz",
   "tipo": "ramal",
-  "rodovia": "R. DEZ DE NOVEMBRO",
-  "ramal_key": "RMSPO_456",
-  "municipio": "SÃO PAULO DE OLIVENÃA"
+  "rodovia": "ESTRADA DO MAPIÃ",
+  "ramal_key": "RMBBA_632",
+  "municipio": "Borba"
  },
  {
-  "arquivo": "rmcoi_72-estrada-de-coari-itapeua.kmz",
-  "url": "kml/2-ramais/r.-genival-guerra/estrada-de-coari-itapeua/rmcoi_72-estrada-de-coari-itapeua.kmz",
+  "arquivo": "RMBBA_633.kmz",
+  "url": "kml/ramais/RMBBA_633.kmz",
   "tipo": "ramal",
-  "rodovia": "R. GENIVAL GUERRA",
-  "ramal_key": "RMCOI_72",
-  "municipio": "COARI"
+  "rodovia": "-",
+  "ramal_key": "RMBBA_633",
+  "municipio": "Borba"
  },
  {
-  "arquivo": "rmmao_325-ramal-do-brasileirinho.kmz",
-  "url": "kml/2-ramais/r.-gergelim/ramal-do-brasileirinho/rmmao_325-ramal-do-brasileirinho.kmz",
+  "arquivo": "RMBBA_634.kmz",
+  "url": "kml/ramais/RMBBA_634.kmz",
   "tipo": "ramal",
-  "rodovia": "R. GERGELIM",
-  "ramal_key": "RMMAO_325",
-  "municipio": "MANAUS"
+  "rodovia": "ESTRADA DO JATUARANA",
+  "ramal_key": "RMBBA_634",
+  "municipio": "Borba"
  },
  {
-  "arquivo": "rmcod_73-estrada-de-codajas-anori.kmz",
-  "url": "kml/2-ramais/r.-getulio-vargas/estrada-de-codajas-anori/rmcod_73-estrada-de-codajas-anori.kmz",
+  "arquivo": "RMBBA_635.kmz",
+  "url": "kml/ramais/RMBBA_635.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO JANSEN",
+  "ramal_key": "RMBBA_635",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMBBA_636.kmz",
+  "url": "kml/ramais/RMBBA_636.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BORBA MAPIÃ",
+  "ramal_key": "RMBBA_636",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMBBA_637.kmz",
+  "url": "kml/ramais/RMBBA_637.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BORBA MAPIÃ",
+  "ramal_key": "RMBBA_637",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMBBA_638.kmz",
+  "url": "kml/ramais/RMBBA_638.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BORBA MAPIÃ",
+  "ramal_key": "RMBBA_638",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMBBA_639.kmz",
+  "url": "kml/ramais/RMBBA_639.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL I - ESTRADA BORBA MAPIÃ",
+  "ramal_key": "RMBBA_639",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMBBA_640.kmz",
+  "url": "kml/ramais/RMBBA_640.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL I - ESTRADA BORBA MAPIÃ",
+  "ramal_key": "RMBBA_640",
+  "municipio": "Borba"
+ },
+ {
+  "arquivo": "RMBDA_509.kmz",
+  "url": "kml/ramais/RMBDA_509.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-317",
+  "ramal_key": "RMBDA_509",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMBDA_510.kmz",
+  "url": "kml/ramais/RMBDA_510.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBDA_510",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBDA_806.kmz",
+  "url": "kml/ramais/RMBDA_806.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBDA_806",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBDA_807.kmz",
+  "url": "kml/ramais/RMBDA_807.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO LAGO NOVO",
+  "ramal_key": "RMBDA_807",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBDA_808.kmz",
+  "url": "kml/ramais/RMBDA_808.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-317",
+  "ramal_key": "RMBDA_808",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBDA_809.kmz",
+  "url": "kml/ramais/RMBDA_809.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO RABO SECO",
+  "ramal_key": "RMBDA_809",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBDA_810.kmz",
+  "url": "kml/ramais/RMBDA_810.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBDA_810",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBDA_811.kmz",
+  "url": "kml/ramais/RMBDA_811.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-317",
+  "ramal_key": "RMBDA_811",
+  "municipio": "Boca do Acre"
+ },
+ {
+  "arquivo": "RMBER_608.kmz",
+  "url": "kml/ramais/RMBER_608.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBER_608",
+  "municipio": "Beruri"
+ },
+ {
+  "arquivo": "RMBER_789.kmz",
+  "url": "kml/ramais/RMBER_789.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBER_789",
+  "municipio": "Beruri"
+ },
+ {
+  "arquivo": "RMBER_790.kmz",
+  "url": "kml/ramais/RMBER_790.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL P. A. BERURI",
+  "ramal_key": "RMBER_790",
+  "municipio": "Beruri"
+ },
+ {
+  "arquivo": "RMBER_791.kmz",
+  "url": "kml/ramais/RMBER_791.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL P. A. BERURI",
+  "ramal_key": "RMBER_791",
+  "municipio": "Beruri"
+ },
+ {
+  "arquivo": "RMBER_794.kmz",
+  "url": "kml/ramais/RMBER_794.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBER_794",
+  "municipio": "Barreirinha"
+ },
+ {
+  "arquivo": "RMBER_795.kmz",
+  "url": "kml/ramais/RMBER_795.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBER_795",
+  "municipio": "Barreirinha"
+ },
+ {
+  "arquivo": "RMBER_796.kmz",
+  "url": "kml/ramais/RMBER_796.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBER_796",
+  "municipio": "Barreirinha"
+ },
+ {
+  "arquivo": "RMBER_797.kmz",
+  "url": "kml/ramais/RMBER_797.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBER_797",
+  "municipio": "Barreirinha"
+ },
+ {
+  "arquivo": "RMBJC_497.kmz",
+  "url": "kml/ramais/RMBJC_497.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. E TARUDIMA",
+  "ramal_key": "RMBJC_497",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBJC_505.kmz",
+  "url": "kml/ramais/RMBJC_505.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA UMARIZAL",
+  "ramal_key": "RMBJC_505",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBJC_506.kmz",
+  "url": "kml/ramais/RMBJC_506.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA UMARIZAL",
+  "ramal_key": "RMBJC_506",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBJC_507.kmz",
+  "url": "kml/ramais/RMBJC_507.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. FRANCISCO",
+  "ramal_key": "RMBJC_507",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBJC_631.kmz",
+  "url": "kml/ramais/RMBJC_631.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. PRIMEIRO DE MAIO",
+  "ramal_key": "RMBJC_631",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBJC_787.kmz",
+  "url": "kml/ramais/RMBJC_787.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBJC_787",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBJC_788.kmz",
+  "url": "kml/ramais/RMBJC_788.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBJC_788",
+  "municipio": "Benjamin Constant"
+ },
+ {
+  "arquivo": "RMBRC_500.kmz",
+  "url": "kml/ramais/RMBRC_500.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. EFIGÃNIO SÃES",
+  "ramal_key": "RMBRC_500",
+  "municipio": "Barcelos"
+ },
+ {
+  "arquivo": "RMBRC_501.kmz",
+  "url": "kml/ramais/RMBRC_501.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. NOVA",
+  "ramal_key": "RMBRC_501",
+  "municipio": "Barcelos"
+ },
+ {
+  "arquivo": "RMBRC_502.kmz",
+  "url": "kml/ramais/RMBRC_502.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BARCELOS CAURÃS",
+  "ramal_key": "RMBRC_502",
+  "municipio": "Barcelos"
+ },
+ {
+  "arquivo": "RMBRC_504.kmz",
+  "url": "kml/ramais/RMBRC_504.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV.MARIUÃ",
+  "ramal_key": "RMBRC_504",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMBRC_812.kmz",
+  "url": "kml/ramais/RMBRC_812.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BARCELOS CAURÃS",
+  "ramal_key": "RMBRC_812",
+  "municipio": "Barcelos"
+ },
+ {
+  "arquivo": "RMBRR_792.kmz",
+  "url": "kml/ramais/RMBRR_792.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBRR_792",
+  "municipio": "Barreirinha"
+ },
+ {
+  "arquivo": "RMBRR_793.kmz",
+  "url": "kml/ramais/RMBRR_793.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBRR_793",
+  "municipio": "Barreirinha"
+ },
+ {
+  "arquivo": "RMBVR_508.kmz",
+  "url": "kml/ramais/RMBVR_508.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. ORIMAR MAFRA",
+  "ramal_key": "RMBVR_508",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMBVR_800.kmz",
+  "url": "kml/ramais/RMBVR_800.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBVR_800",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMBVR_801.kmz",
+  "url": "kml/ramais/RMBVR_801.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBVR_801",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMBVR_802.kmz",
+  "url": "kml/ramais/RMBVR_802.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMBVR_802",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMBVR_803.kmz",
+  "url": "kml/ramais/RMBVR_803.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BENTO BARROSO",
+  "ramal_key": "RMBVR_803",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMBVR_804.kmz",
+  "url": "kml/ramais/RMBVR_804.kmz",
+  "tipo": "ramal",
+  "rodovia": "TV. JABURU",
+  "ramal_key": "RMBVR_804",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMBVR_805.kmz",
+  "url": "kml/ramais/RMBVR_805.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO AEROPORTO",
+  "ramal_key": "RMBVR_805",
+  "municipio": "Boa Vista do Ramos"
+ },
+ {
+  "arquivo": "RMCAN_516.kmz",
+  "url": "kml/ramais/RMCAN_516.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. FLORIANO PEIXOTO",
+  "ramal_key": "RMCAN_516",
+  "municipio": "Canutama"
+ },
+ {
+  "arquivo": "RMCAN_517.kmz",
+  "url": "kml/ramais/RMCAN_517.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCAN_517",
+  "municipio": null
+ },
+ {
+  "arquivo": "RMCAP_46.kmz",
+  "url": "kml/ramais/RMCAP_46.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. WALDOMIRO MORAES DE CASTRO",
+  "ramal_key": "RMCAP_46",
+  "municipio": "Caapiranga"
+ },
+ {
+  "arquivo": "RMCAP_47.kmz",
+  "url": "kml/ramais/RMCAP_47.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. WALDOMIRO MORAES DE CASTRO",
+  "ramal_key": "RMCAP_47",
+  "municipio": "Caapiranga"
+ },
+ {
+  "arquivo": "RMCAP_48.kmz",
+  "url": "kml/ramais/RMCAP_48.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. ANTÃNIO MECENA",
+  "ramal_key": "RMCAP_48",
+  "municipio": "Caapiranga"
+ },
+ {
+  "arquivo": "RMCAP_514.kmz",
+  "url": "kml/ramais/RMCAP_514.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MEMBECA",
+  "ramal_key": "RMCAP_514",
+  "municipio": "Caapiranga"
+ },
+ {
+  "arquivo": "RMCAP_515.kmz",
+  "url": "kml/ramais/RMCAP_515.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO PATAUÃ",
+  "ramal_key": "RMCAP_515",
+  "municipio": "Caapiranga"
+ },
+ {
+  "arquivo": "RMCAR_518.kmz",
+  "url": "kml/ramais/RMCAR_518.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. JOÃO BÃSCO",
+  "ramal_key": "RMCAR_518",
+  "municipio": "Carauari"
+ },
+ {
+  "arquivo": "RMCAR_519.kmz",
+  "url": "kml/ramais/RMCAR_519.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. MIGUEL SERAFIM",
+  "ramal_key": "RMCAR_519",
+  "municipio": "Carauari"
+ },
+ {
+  "arquivo": "RMCAR_520.kmz",
+  "url": "kml/ramais/RMCAR_520.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. SÃO JACOB",
+  "ramal_key": "RMCAR_520",
+  "municipio": "Carauari"
+ },
+ {
+  "arquivo": "RMCAR_521.kmz",
+  "url": "kml/ramais/RMCAR_521.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. CELINO MENEZES",
+  "ramal_key": "RMCAR_521",
+  "municipio": "Carauari"
+ },
+ {
+  "arquivo": "RMCAR_523.kmz",
+  "url": "kml/ramais/RMCAR_523.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-333",
+  "ramal_key": "RMCAR_523",
+  "municipio": "Carauari"
+ },
+ {
+  "arquivo": "RMCOD_534.kmz",
+  "url": "kml/ramais/RMCOD_534.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. MANOEL ALVES",
+  "ramal_key": "RMCOD_534",
+  "municipio": "CodajÃ¡s"
+ },
+ {
+  "arquivo": "RMCOD_536.kmz",
+  "url": "kml/ramais/RMCOD_536.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-252",
+  "ramal_key": "RMCOD_536",
+  "municipio": "CodajÃ¡s"
+ },
+ {
+  "arquivo": "RMCOD_73.kmz",
+  "url": "kml/ramais/RMCOD_73.kmz",
   "tipo": "ramal",
   "rodovia": "R. GETÃLIO VARGAS",
   "ramal_key": "RMCOD_73",
-  "municipio": "CODAJÃS"
+  "municipio": "CodajÃ¡s"
  },
  {
-  "arquivo": "rmmao_256-estrada-adolpho-ducke.kmz",
-  "url": "kml/2-ramais/ramal-agua-branca/estrada-adolpho-ducke/rmmao_256-estrada-adolpho-ducke.kmz",
+  "arquivo": "RMCOI_532.kmz",
+  "url": "kml/ramais/RMCOI_532.kmz",
   "tipo": "ramal",
-  "rodovia": "RAMAL ÃGUA BRANCA",
-  "ramal_key": "RMMAO_256",
-  "municipio": "MANAUS"
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_532",
+  "municipio": "Coari"
  },
  {
-  "arquivo": "rmmao_331-ramal-da-cooperativa.kmz",
-  "url": "kml/2-ramais/ramal-do-pau-rosa/ramal-da-cooperativa/rmmao_331-ramal-da-cooperativa.kmz",
+  "arquivo": "RMCOI_533.kmz",
+  "url": "kml/ramais/RMCOI_533.kmz",
   "tipo": "ramal",
-  "rodovia": "RAMAL DO PAU ROSA",
-  "ramal_key": "RMMAO_331",
-  "municipio": "MANAUS"
+  "rodovia": "ESTRADA DE COARI ITAPEUA",
+  "ramal_key": "RMCOI_533",
+  "municipio": "Coari"
  },
  {
-  "arquivo": "rmcrv_71-sub.-ramal-do-sissaima.kmz",
-  "url": "kml/2-ramais/sub.ramal-do-miriti/sub.-ramal-do-sissaima/rmcrv_71-sub.-ramal-do-sissaima.kmz",
+  "arquivo": "RMCOI_72.kmz",
+  "url": "kml/ramais/RMCOI_72.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. GENIVAL GUERRA",
+  "ramal_key": "RMCOI_72",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_817.kmz",
+  "url": "kml/ramais/RMCOI_817.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMCOI_817",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_818.kmz",
+  "url": "kml/ramais/RMCOI_818.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_818",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_819.kmz",
+  "url": "kml/ramais/RMCOI_819.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_819",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_820.kmz",
+  "url": "kml/ramais/RMCOI_820.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_820",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_821.kmz",
+  "url": "kml/ramais/RMCOI_821.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_821",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_822.kmz",
+  "url": "kml/ramais/RMCOI_822.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_822",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_823.kmz",
+  "url": "kml/ramais/RMCOI_823.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_823",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCOI_824.kmz",
+  "url": "kml/ramais/RMCOI_824.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-343",
+  "ramal_key": "RMCOI_824",
+  "municipio": "Coari"
+ },
+ {
+  "arquivo": "RMCRO_468.kmz",
+  "url": "kml/ramais/RMCRO_468.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_468",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_469.kmz",
+  "url": "kml/ramais/RMCRO_469.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_469",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_49.kmz",
+  "url": "kml/ramais/RMCRO_49.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_49",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_50.kmz",
+  "url": "kml/ramais/RMCRO_50.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_50",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_51.kmz",
+  "url": "kml/ramais/RMCRO_51.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_51",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_52.kmz",
+  "url": "kml/ramais/RMCRO_52.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_52",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_525.kmz",
+  "url": "kml/ramais/RMCRO_525.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_525",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_526.kmz",
+  "url": "kml/ramais/RMCRO_526.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_526",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_527.kmz",
+  "url": "kml/ramais/RMCRO_527.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_527",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_528.kmz",
+  "url": "kml/ramais/RMCRO_528.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_528",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_529.kmz",
+  "url": "kml/ramais/RMCRO_529.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_529",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_53.kmz",
+  "url": "kml/ramais/RMCRO_53.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_53",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_531.kmz",
+  "url": "kml/ramais/RMCRO_531.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_531",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_54.kmz",
+  "url": "kml/ramais/RMCRO_54.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_54",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_55.kmz",
+  "url": "kml/ramais/RMCRO_55.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_55",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_56.kmz",
+  "url": "kml/ramais/RMCRO_56.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_56",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_57.kmz",
+  "url": "kml/ramais/RMCRO_57.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_57",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_58.kmz",
+  "url": "kml/ramais/RMCRO_58.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMCRO_58",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_59.kmz",
+  "url": "kml/ramais/RMCRO_59.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMCRO_59",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_60.kmz",
+  "url": "kml/ramais/RMCRO_60.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMCRO_60",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_61.kmz",
+  "url": "kml/ramais/RMCRO_61.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMCRO_61",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_62.kmz",
+  "url": "kml/ramais/RMCRO_62.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMCRO_62",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_63.kmz",
+  "url": "kml/ramais/RMCRO_63.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMCRO_63",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_64.kmz",
+  "url": "kml/ramais/RMCRO_64.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMCRO_64",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_65.kmz",
+  "url": "kml/ramais/RMCRO_65.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_65",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_66.kmz",
+  "url": "kml/ramais/RMCRO_66.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_66",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_67.kmz",
+  "url": "kml/ramais/RMCRO_67.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO PURUPURU",
+  "ramal_key": "RMCRO_67",
+  "municipio": "Careiro da VÃ¡rzea"
+ },
+ {
+  "arquivo": "RMCRO_68.kmz",
+  "url": "kml/ramais/RMCRO_68.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_68",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_813.kmz",
+  "url": "kml/ramais/RMCRO_813.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_813",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_814.kmz",
+  "url": "kml/ramais/RMCRO_814.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_814",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRO_815.kmz",
+  "url": "kml/ramais/RMCRO_815.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_815",
+  "municipio": "Careiro"
+ },
+ {
+  "arquivo": "RMCRV_524.kmz",
+  "url": "kml/ramais/RMCRV_524.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMCRV_524",
+  "municipio": "Careiro da VÃ¡rzea"
+ },
+ {
+  "arquivo": "RMCRV_530.kmz",
+  "url": "kml/ramais/RMCRV_530.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMCRV_530",
+  "municipio": "Careiro da VÃ¡rzea"
+ },
+ {
+  "arquivo": "RMCRV_69.kmz",
+  "url": "kml/ramais/RMCRV_69.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB.RAMAL DO COBRA 1",
+  "ramal_key": "RMCRV_69",
+  "municipio": "Careiro da VÃ¡rzea"
+ },
+ {
+  "arquivo": "RMCRV_70.kmz",
+  "url": "kml/ramais/RMCRV_70.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB.RAMAL DO ANVERES",
+  "ramal_key": "RMCRV_70",
+  "municipio": "Careiro da VÃ¡rzea"
+ },
+ {
+  "arquivo": "RMCRV_71.kmz",
+  "url": "kml/ramais/RMCRV_71.kmz",
   "tipo": "ramal",
   "rodovia": "SUB.RAMAL DO MIRITI",
   "ramal_key": "RMCRV_71",
-  "municipio": "CAREIRO DA VÃRZEA"
+  "municipio": "Careiro da VÃ¡rzea"
  },
  {
-  "arquivo": "am-174.kmz",
-  "url": "kml/2-ramais/_sem-correspondencia/am-174/am-174.kmz",
+  "arquivo": "RMCRV_816.kmz",
+  "url": "kml/ramais/RMCRV_816.kmz",
   "tipo": "ramal",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "rodovia": "ESTRADA DO PURUPURU",
+  "ramal_key": "RMCRV_816",
+  "municipio": "Careiro da VÃ¡rzea"
  },
  {
-  "arquivo": "estrada-novo-aripuana-apui.kml",
-  "url": "kml/2-ramais/_sem-correspondencia/estrada-novo-aripuana-apui/estrada-novo-aripuana-apui.kml",
+  "arquivo": "RMEIR_537.kmz",
+  "url": "kml/ramais/RMEIR_537.kmz",
   "tipo": "ramal",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "rodovia": "R. RICARDO SALVIANO",
+  "ramal_key": "RMEIR_537",
+  "municipio": "EirunepÃ©"
  },
  {
-  "arquivo": "ramal-do-itauba.kmz",
-  "url": "kml/2-ramais/_sem-correspondencia/ramal-do-itauba/ramal-do-itauba.kmz",
+  "arquivo": "RMEIR_538.kmz",
+  "url": "kml/ramais/RMEIR_538.kmz",
   "tipo": "ramal",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "rodovia": "R. VEREADOR JOSÃ CAMILO",
+  "ramal_key": "RMEIR_538",
+  "municipio": "EirunepÃ©"
  },
  {
-  "arquivo": "ramal-do-km-11.kmz",
-  "url": "kml/2-ramais/_sem-correspondencia/ramal-do-km-11/ramal-do-km-11.kmz",
+  "arquivo": "RMEIR_539.kmz",
+  "url": "kml/ramais/RMEIR_539.kmz",
   "tipo": "ramal",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "rodovia": "R. GETÃLIO VARGAS",
+  "ramal_key": "RMEIR_539",
+  "municipio": "EirunepÃ©"
  },
  {
-  "arquivo": "ramal-do-km-15-br-174.kmz",
-  "url": "kml/2-ramais/_sem-correspondencia/ramal-do-km-15-br-174/ramal-do-km-15-br-174.kmz",
+  "arquivo": "RMEIR_540.kmz",
+  "url": "kml/ramais/RMEIR_540.kmz",
   "tipo": "ramal",
-  "rodovia": null,
-  "ramal_key": null,
+  "rodovia": "R.PROJETADA 3",
+  "ramal_key": "RMEIR_540",
+  "municipio": "EirunepÃ©"
+ },
+ {
+  "arquivo": "RMEIR_541.kmz",
+  "url": "kml/ramais/RMEIR_541.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO XIDÃ",
+  "ramal_key": "RMEIR_541",
+  "municipio": "EirunepÃ©"
+ },
+ {
+  "arquivo": "RMEIR_825.kmz",
+  "url": "kml/ramais/RMEIR_825.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO XIDA",
+  "ramal_key": "RMEIR_825",
+  "municipio": "EirunepÃ©"
+ },
+ {
+  "arquivo": "RMEIR_826.kmz",
+  "url": "kml/ramais/RMEIR_826.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO XIDA",
+  "ramal_key": "RMEIR_826",
+  "municipio": "EirunepÃ©"
+ },
+ {
+  "arquivo": "RMENV_542.kmz",
+  "url": "kml/ramais/RMENV_542.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MARIANO",
+  "ramal_key": "RMENV_542",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMENV_544.kmz",
+  "url": "kml/ramais/RMENV_544.kmz",
+  "tipo": "ramal",
+  "rodovia": "R.CONCÃRDIA",
+  "ramal_key": "RMENV_544",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMENV_545.kmz",
+  "url": "kml/ramais/RMENV_545.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. JOAQUIM BROBA",
+  "ramal_key": "RMENV_545",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMENV_546.kmz",
+  "url": "kml/ramais/RMENV_546.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MARIANO",
+  "ramal_key": "RMENV_546",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMENV_547.kmz",
+  "url": "kml/ramais/RMENV_547.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMENV_547",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMENV_548.kmz",
+  "url": "kml/ramais/RMENV_548.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. RENÃ LEVE",
+  "ramal_key": "RMENV_548",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMENV_827.kmz",
+  "url": "kml/ramais/RMENV_827.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. VINTE E DOIS DE JUNHO",
+  "ramal_key": "RMENV_827",
+  "municipio": "Envira"
+ },
+ {
+  "arquivo": "RMFBO_470.kmz",
+  "url": "kml/ramais/RMFBO_470.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. TERTULIANO RODRIGUES",
+  "ramal_key": "RMFBO_470",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_471.kmz",
+  "url": "kml/ramais/RMFBO_471.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO TUPÃ",
+  "ramal_key": "RMFBO_471",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_549.kmz",
+  "url": "kml/ramais/RMFBO_549.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. GEN. RONDON",
+  "ramal_key": "RMFBO_549",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_550.kmz",
+  "url": "kml/ramais/RMFBO_550.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO BARÃ",
+  "ramal_key": "RMFBO_550",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_551.kmz",
+  "url": "kml/ramais/RMFBO_551.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. TERTULIANO RODRIGUES",
+  "ramal_key": "RMFBO_551",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_552.kmz",
+  "url": "kml/ramais/RMFBO_552.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMFBO_552",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_553.kmz",
+  "url": "kml/ramais/RMFBO_553.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO BARÃ",
+  "ramal_key": "RMFBO_553",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_554.kmz",
+  "url": "kml/ramais/RMFBO_554.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO BARÃ",
+  "ramal_key": "RMFBO_554",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_555.kmz",
+  "url": "kml/ramais/RMFBO_555.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. PRES. MÃDICE",
+  "ramal_key": "RMFBO_555",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMFBO_556.kmz",
+  "url": "kml/ramais/RMFBO_556.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO AEROPORTO",
+  "ramal_key": "RMFBO_556",
+  "municipio": "Fonte Boa"
+ },
+ {
+  "arquivo": "RMGUA_74.kmz",
+  "url": "kml/ramais/RMGUA_74.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DA FLORESTA",
+  "ramal_key": "RMGUA_74",
+  "municipio": "GuajarÃ¡"
+ },
+ {
+  "arquivo": "RMGUA_75.kmz",
+  "url": "kml/ramais/RMGUA_75.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO GUAJARÃ",
+  "ramal_key": "RMGUA_75",
   "municipio": null
  },
  {
-  "arquivo": "ext-ramais-da-am-070.kmz",
-  "url": "kml/4-colecoes/ext-ramais-da-am-070.kmz",
-  "tipo": "colecao",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "arquivo": "RMGUA_828.kmz",
+  "url": "kml/ramais/RMGUA_828.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. EDSON HERCUIANO",
+  "ramal_key": "RMGUA_828",
+  "municipio": "GuajarÃ¡"
  },
  {
-  "arquivo": "ramais-catalogados.kmz",
-  "url": "kml/4-colecoes/ramais-catalogados.kmz",
-  "tipo": "colecao",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "arquivo": "RMGUA_829.kmz",
+  "url": "kml/ramais/RMGUA_829.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMGUA_829",
+  "municipio": "GuajarÃ¡"
  },
  {
-  "arquivo": "ramal.kmz",
-  "url": "kml/4-colecoes/ramal.kmz",
-  "tipo": "colecao",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "arquivo": "RMGUA_830.kmz",
+  "url": "kml/ramais/RMGUA_830.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. GETÃLIO VARGAS",
+  "ramal_key": "RMGUA_830",
+  "municipio": "GuajarÃ¡"
  },
  {
-  "arquivo": "rodovia.kmz",
-  "url": "kml/4-colecoes/rodovia.kmz",
-  "tipo": "colecao",
-  "rodovia": null,
-  "ramal_key": null,
-  "municipio": null
+  "arquivo": "RMGUA_831.kmz",
+  "url": "kml/ramais/RMGUA_831.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO GAMA",
+  "ramal_key": "RMGUA_831",
+  "municipio": "GuajarÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_522.kmz",
+  "url": "kml/ramais/RMHUM_522.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMHUM_522",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_557.kmz",
+  "url": "kml/ramais/RMHUM_557.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_557",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_558.kmz",
+  "url": "kml/ramais/RMHUM_558.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_558",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_559.kmz",
+  "url": "kml/ramais/RMHUM_559.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_559",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_560.kmz",
+  "url": "kml/ramais/RMHUM_560.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_560",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_561.kmz",
+  "url": "kml/ramais/RMHUM_561.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO SÃO FRANCISCO",
+  "ramal_key": "RMHUM_561",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_562.kmz",
+  "url": "kml/ramais/RMHUM_562.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_562",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_563.kmz",
+  "url": "kml/ramais/RMHUM_563.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_563",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_564.kmz",
+  "url": "kml/ramais/RMHUM_564.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_564",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_565.kmz",
+  "url": "kml/ramais/RMHUM_565.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_565",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_566.kmz",
+  "url": "kml/ramais/RMHUM_566.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_566",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_567.kmz",
+  "url": "kml/ramais/RMHUM_567.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_567",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_568.kmz",
+  "url": "kml/ramais/RMHUM_568.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. ALVARO BOTELHO MAIA",
+  "ramal_key": "RMHUM_568",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_569.kmz",
+  "url": "kml/ramais/RMHUM_569.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. ESTANISLAU AFONSO",
+  "ramal_key": "RMHUM_569",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_570.kmz",
+  "url": "kml/ramais/RMHUM_570.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMHUM_570",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_571.kmz",
+  "url": "kml/ramais/RMHUM_571.kmz",
+  "tipo": "ramal",
+  "rodovia": "ANEL VIÃRIO DE HUMAITÃ",
+  "ramal_key": "RMHUM_571",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_572.kmz",
+  "url": "kml/ramais/RMHUM_572.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DOS PARAGUAIOS",
+  "ramal_key": "RMHUM_572",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_581.kmz",
+  "url": "kml/ramais/RMHUM_581.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMHUM_581",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMHUM_582.kmz",
+  "url": "kml/ramais/RMHUM_582.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMHUM_582",
+  "municipio": "HumaitÃ¡"
+ },
+ {
+  "arquivo": "RMIPI_583.kmz",
+  "url": "kml/ramais/RMIPI_583.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. DOMINGOS BARROSO",
+  "ramal_key": "RMIPI_583",
+  "municipio": "Ipixuna"
+ },
+ {
+  "arquivo": "RMIPI_584.kmz",
+  "url": "kml/ramais/RMIPI_584.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. JOSÃ NOGUEIRA MACIEL",
+  "ramal_key": "RMIPI_584",
+  "municipio": "Ipixuna"
+ },
+ {
+  "arquivo": "RMIPI_585.kmz",
+  "url": "kml/ramais/RMIPI_585.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO ALEGRETE",
+  "ramal_key": "RMIPI_585",
+  "municipio": "Ipixuna"
+ },
+ {
+  "arquivo": "RMIPI_832.kmz",
+  "url": "kml/ramais/RMIPI_832.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. NILTON LIMA",
+  "ramal_key": "RMIPI_832",
+  "municipio": "Ipixuna"
+ },
+ {
+  "arquivo": "RMIPI_833.kmz",
+  "url": "kml/ramais/RMIPI_833.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. DOMINGOS BARROSO",
+  "ramal_key": "RMIPI_833",
+  "municipio": "Ipixuna"
+ },
+ {
+  "arquivo": "RMIRA_100.kmz",
+  "url": "kml/ramais/RMIRA_100.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_100",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_101.kmz",
+  "url": "kml/ramais/RMIRA_101.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_101",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_102.kmz",
+  "url": "kml/ramais/RMIRA_102.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_102",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_103.kmz",
+  "url": "kml/ramais/RMIRA_103.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_103",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_104.kmz",
+  "url": "kml/ramais/RMIRA_104.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_104",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_105.kmz",
+  "url": "kml/ramais/RMIRA_105.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_105",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_106.kmz",
+  "url": "kml/ramais/RMIRA_106.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_106",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_107.kmz",
+  "url": "kml/ramais/RMIRA_107.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_107",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_108.kmz",
+  "url": "kml/ramais/RMIRA_108.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_108",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_109.kmz",
+  "url": "kml/ramais/RMIRA_109.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_109",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_110.kmz",
+  "url": "kml/ramais/RMIRA_110.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_110",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_111.kmz",
+  "url": "kml/ramais/RMIRA_111.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_111",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_112.kmz",
+  "url": "kml/ramais/RMIRA_112.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_112",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_113.kmz",
+  "url": "kml/ramais/RMIRA_113.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_113",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_114.kmz",
+  "url": "kml/ramais/RMIRA_114.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_114",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_115.kmz",
+  "url": "kml/ramais/RMIRA_115.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_115",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_116.kmz",
+  "url": "kml/ramais/RMIRA_116.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_116",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_117.kmz",
+  "url": "kml/ramais/RMIRA_117.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_117",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_118.kmz",
+  "url": "kml/ramais/RMIRA_118.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_118",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_119.kmz",
+  "url": "kml/ramais/RMIRA_119.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_119",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_120.kmz",
+  "url": "kml/ramais/RMIRA_120.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_120",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_121.kmz",
+  "url": "kml/ramais/RMIRA_121.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_121",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_122.kmz",
+  "url": "kml/ramais/RMIRA_122.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_122",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_123.kmz",
+  "url": "kml/ramais/RMIRA_123.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_123",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_124.kmz",
+  "url": "kml/ramais/RMIRA_124.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_124",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_125.kmz",
+  "url": "kml/ramais/RMIRA_125.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_125",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_126.kmz",
+  "url": "kml/ramais/RMIRA_126.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-452",
+  "ramal_key": "RMIRA_126",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_127.kmz",
+  "url": "kml/ramais/RMIRA_127.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_127",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_128.kmz",
+  "url": "kml/ramais/RMIRA_128.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_128",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_129.kmz",
+  "url": "kml/ramais/RMIRA_129.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_129",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_586.kmz",
+  "url": "kml/ramais/RMIRA_586.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_586",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_587.kmz",
+  "url": "kml/ramais/RMIRA_587.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMIRA_587",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_588.kmz",
+  "url": "kml/ramais/RMIRA_588.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. AMAZONAS",
+  "ramal_key": "RMIRA_588",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_597.kmz",
+  "url": "kml/ramais/RMIRA_597.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_597",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_599.kmz",
+  "url": "kml/ramais/RMIRA_599.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO kM 18 - AM-352",
+  "ramal_key": "RMIRA_599",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_600.kmz",
+  "url": "kml/ramais/RMIRA_600.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_600",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_76.kmz",
+  "url": "kml/ramais/RMIRA_76.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_76",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMIRA_77.kmz",
+  "url": "kml/ramais/RMIRA_77.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_77",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_779.kmz",
+  "url": "kml/ramais/RMIRA_779.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA CARLOS BRAGA",
+  "ramal_key": "RMIRA_779",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_78.kmz",
+  "url": "kml/ramais/RMIRA_78.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_78",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_79.kmz",
+  "url": "kml/ramais/RMIRA_79.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_79",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_80.kmz",
+  "url": "kml/ramais/RMIRA_80.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_80",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_81.kmz",
+  "url": "kml/ramais/RMIRA_81.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_81",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_82.kmz",
+  "url": "kml/ramais/RMIRA_82.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_82",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_83.kmz",
+  "url": "kml/ramais/RMIRA_83.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_83",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_834.kmz",
+  "url": "kml/ramais/RMIRA_834.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-452",
+  "ramal_key": "RMIRA_834",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_835.kmz",
+  "url": "kml/ramais/RMIRA_835.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-452",
+  "ramal_key": "RMIRA_835",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_836.kmz",
+  "url": "kml/ramais/RMIRA_836.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-452",
+  "ramal_key": "RMIRA_836",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_837.kmz",
+  "url": "kml/ramais/RMIRA_837.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL PARQUE CALDEIRÃO",
+  "ramal_key": "RMIRA_837",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_838.kmz",
+  "url": "kml/ramais/RMIRA_838.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL PARQUE MINAS GERAIS",
+  "ramal_key": "RMIRA_838",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_839.kmz",
+  "url": "kml/ramais/RMIRA_839.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_839",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_84.kmz",
+  "url": "kml/ramais/RMIRA_84.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_84",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_840.kmz",
+  "url": "kml/ramais/RMIRA_840.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_840",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_841.kmz",
+  "url": "kml/ramais/RMIRA_841.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_841",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_842.kmz",
+  "url": "kml/ramais/RMIRA_842.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_842",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_843.kmz",
+  "url": "kml/ramais/RMIRA_843.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_843",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_844.kmz",
+  "url": "kml/ramais/RMIRA_844.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_844",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_845.kmz",
+  "url": "kml/ramais/RMIRA_845.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_845",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_846.kmz",
+  "url": "kml/ramais/RMIRA_846.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_846",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_847.kmz",
+  "url": "kml/ramais/RMIRA_847.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_847",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_848.kmz",
+  "url": "kml/ramais/RMIRA_848.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_848",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_849.kmz",
+  "url": "kml/ramais/RMIRA_849.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AÃUTUBA",
+  "ramal_key": "RMIRA_849",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_85.kmz",
+  "url": "kml/ramais/RMIRA_85.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_85",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_850.kmz",
+  "url": "kml/ramais/RMIRA_850.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_850",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_851.kmz",
+  "url": "kml/ramais/RMIRA_851.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL CABEÃA DO BODE",
+  "ramal_key": "RMIRA_851",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_852.kmz",
+  "url": "kml/ramais/RMIRA_852.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_852",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_853.kmz",
+  "url": "kml/ramais/RMIRA_853.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_853",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_854.kmz",
+  "url": "kml/ramais/RMIRA_854.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_854",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_855.kmz",
+  "url": "kml/ramais/RMIRA_855.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_855",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_856.kmz",
+  "url": "kml/ramais/RMIRA_856.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-151",
+  "ramal_key": "RMIRA_856",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_857.kmz",
+  "url": "kml/ramais/RMIRA_857.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL LINDO AMANHECER",
+  "ramal_key": "RMIRA_857",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_858.kmz",
+  "url": "kml/ramais/RMIRA_858.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL MORADA DO SOL",
+  "ramal_key": "RMIRA_858",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_859.kmz",
+  "url": "kml/ramais/RMIRA_859.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL MORADA DO SOL",
+  "ramal_key": "RMIRA_859",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_86.kmz",
+  "url": "kml/ramais/RMIRA_86.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_86",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_860.kmz",
+  "url": "kml/ramais/RMIRA_860.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL MORADA DO SOL",
+  "ramal_key": "RMIRA_860",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_861.kmz",
+  "url": "kml/ramais/RMIRA_861.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL MORADA DO SOL",
+  "ramal_key": "RMIRA_861",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_862.kmz",
+  "url": "kml/ramais/RMIRA_862.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL BOA ESPERANÃA",
+  "ramal_key": "RMIRA_862",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_863.kmz",
+  "url": "kml/ramais/RMIRA_863.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL DA CREUZA 2",
+  "ramal_key": "RMIRA_863",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_864.kmz",
+  "url": "kml/ramais/RMIRA_864.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA CREUZA",
+  "ramal_key": "RMIRA_864",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_865.kmz",
+  "url": "kml/ramais/RMIRA_865.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO JANAUARI",
+  "ramal_key": "RMIRA_865",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_87.kmz",
+  "url": "kml/ramais/RMIRA_87.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_87",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_88.kmz",
+  "url": "kml/ramais/RMIRA_88.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_88",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_89.kmz",
+  "url": "kml/ramais/RMIRA_89.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMIRA_89",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_90.kmz",
+  "url": "kml/ramais/RMIRA_90.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_90",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_91.kmz",
+  "url": "kml/ramais/RMIRA_91.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_91",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_92.kmz",
+  "url": "kml/ramais/RMIRA_92.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_92",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_93.kmz",
+  "url": "kml/ramais/RMIRA_93.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_93",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_94.kmz",
+  "url": "kml/ramais/RMIRA_94.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_94",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_95.kmz",
+  "url": "kml/ramais/RMIRA_95.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_95",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_96.kmz",
+  "url": "kml/ramais/RMIRA_96.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_96",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_97.kmz",
+  "url": "kml/ramais/RMIRA_97.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_97",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_98.kmz",
+  "url": "kml/ramais/RMIRA_98.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_98",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMIRA_99.kmz",
+  "url": "kml/ramais/RMIRA_99.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_99",
+  "municipio": "Iranduba"
+ },
+ {
+  "arquivo": "RMITA_130.kmz",
+  "url": "kml/ramais/RMITA_130.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_130",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_131.kmz",
+  "url": "kml/ramais/RMITA_131.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_131",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_132.kmz",
+  "url": "kml/ramais/RMITA_132.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_132",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_133.kmz",
+  "url": "kml/ramais/RMITA_133.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_133",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_134.kmz",
+  "url": "kml/ramais/RMITA_134.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_134",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMITA_135.kmz",
+  "url": "kml/ramais/RMITA_135.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_135",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_136.kmz",
+  "url": "kml/ramais/RMITA_136.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_136",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_137.kmz",
+  "url": "kml/ramais/RMITA_137.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_137",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_138.kmz",
+  "url": "kml/ramais/RMITA_138.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_138",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_139.kmz",
+  "url": "kml/ramais/RMITA_139.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_139",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_140.kmz",
+  "url": "kml/ramais/RMITA_140.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_140",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_141.kmz",
+  "url": "kml/ramais/RMITA_141.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_141",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_142.kmz",
+  "url": "kml/ramais/RMITA_142.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_142",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_143.kmz",
+  "url": "kml/ramais/RMITA_143.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_143",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_144.kmz",
+  "url": "kml/ramais/RMITA_144.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_144",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_145.kmz",
+  "url": "kml/ramais/RMITA_145.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_145",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_146.kmz",
+  "url": "kml/ramais/RMITA_146.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_146",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_147.kmz",
+  "url": "kml/ramais/RMITA_147.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_147",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_148.kmz",
+  "url": "kml/ramais/RMITA_148.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_148",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_149.kmz",
+  "url": "kml/ramais/RMITA_149.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_149",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_150.kmz",
+  "url": "kml/ramais/RMITA_150.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_150",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_151.kmz",
+  "url": "kml/ramais/RMITA_151.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_151",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_152.kmz",
+  "url": "kml/ramais/RMITA_152.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_152",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_153.kmz",
+  "url": "kml/ramais/RMITA_153.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_153",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_154.kmz",
+  "url": "kml/ramais/RMITA_154.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_154",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_155.kmz",
+  "url": "kml/ramais/RMITA_155.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_155",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_156.kmz",
+  "url": "kml/ramais/RMITA_156.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_156",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_157.kmz",
+  "url": "kml/ramais/RMITA_157.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_157",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_158.kmz",
+  "url": "kml/ramais/RMITA_158.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_158",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_159.kmz",
+  "url": "kml/ramais/RMITA_159.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_159",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_160.kmz",
+  "url": "kml/ramais/RMITA_160.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_160",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_161.kmz",
+  "url": "kml/ramais/RMITA_161.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_161",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_162.kmz",
+  "url": "kml/ramais/RMITA_162.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_162",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_163.kmz",
+  "url": "kml/ramais/RMITA_163.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_163",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_164.kmz",
+  "url": "kml/ramais/RMITA_164.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_164",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_165.kmz",
+  "url": "kml/ramais/RMITA_165.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_165",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_166.kmz",
+  "url": "kml/ramais/RMITA_166.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_166",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_167.kmz",
+  "url": "kml/ramais/RMITA_167.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_167",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_168.kmz",
+  "url": "kml/ramais/RMITA_168.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_168",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_169.kmz",
+  "url": "kml/ramais/RMITA_169.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_169",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_170.kmz",
+  "url": "kml/ramais/RMITA_170.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_170",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_171.kmz",
+  "url": "kml/ramais/RMITA_171.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_171",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_172.kmz",
+  "url": "kml/ramais/RMITA_172.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_172",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_173.kmz",
+  "url": "kml/ramais/RMITA_173.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_173",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_174.kmz",
+  "url": "kml/ramais/RMITA_174.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_174",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_175.kmz",
+  "url": "kml/ramais/RMITA_175.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_175",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_176.kmz",
+  "url": "kml/ramais/RMITA_176.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_176",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_177.kmz",
+  "url": "kml/ramais/RMITA_177.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_177",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_178.kmz",
+  "url": "kml/ramais/RMITA_178.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_178",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_179.kmz",
+  "url": "kml/ramais/RMITA_179.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_179",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_180.kmz",
+  "url": "kml/ramais/RMITA_180.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_180",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_181.kmz",
+  "url": "kml/ramais/RMITA_181.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_181",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_182.kmz",
+  "url": "kml/ramais/RMITA_182.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO NOVO REMANSO",
+  "ramal_key": "RMITA_182",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_183.kmz",
+  "url": "kml/ramais/RMITA_183.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_183",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_184.kmz",
+  "url": "kml/ramais/RMITA_184.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO NOVO REMANSO",
+  "ramal_key": "RMITA_184",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_589.kmz",
+  "url": "kml/ramais/RMITA_589.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMITA_589",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_590.kmz",
+  "url": "kml/ramais/RMITA_590.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMITA_590",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_591.kmz",
+  "url": "kml/ramais/RMITA_591.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. MÃRIO ANDREAZZA",
+  "ramal_key": "RMITA_591",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_592.kmz",
+  "url": "kml/ramais/RMITA_592.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO RONDON 1",
+  "ramal_key": "RMITA_592",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_593.kmz",
+  "url": "kml/ramais/RMITA_593.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO RONDON 1",
+  "ramal_key": "RMITA_593",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_594.kmz",
+  "url": "kml/ramais/RMITA_594.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_594",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_595.kmz",
+  "url": "kml/ramais/RMITA_595.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO ENGENHO",
+  "ramal_key": "RMITA_595",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_596.kmz",
+  "url": "kml/ramais/RMITA_596.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO NOVO REMANSO",
+  "ramal_key": "RMITA_596",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_866.kmz",
+  "url": "kml/ramais/RMITA_866.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA SUDAM",
+  "ramal_key": "RMITA_866",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_867.kmz",
+  "url": "kml/ramais/RMITA_867.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_867",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_868.kmz",
+  "url": "kml/ramais/RMITA_868.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL DA JAMANÃ",
+  "ramal_key": "RMITA_868",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_869.kmz",
+  "url": "kml/ramais/RMITA_869.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL DA JAMANÃ",
+  "ramal_key": "RMITA_869",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITA_870.kmz",
+  "url": "kml/ramais/RMITA_870.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO RONDON l",
+  "ramal_key": "RMITA_870",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMITM_610.kmz",
+  "url": "kml/ramais/RMITM_610.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMITM_610",
+  "municipio": "Itapiranga"
+ },
+ {
+  "arquivo": "RMITM_623.kmz",
+  "url": "kml/ramais/RMITM_623.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. BÃRBARA MIRANDA",
+  "ramal_key": "RMITM_623",
+  "municipio": "Itapiranga"
+ },
+ {
+  "arquivo": "RMITM_624.kmz",
+  "url": "kml/ramais/RMITM_624.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMITM_624",
+  "municipio": "Itapiranga"
+ },
+ {
+  "arquivo": "RMITM_871.kmz",
+  "url": "kml/ramais/RMITM_871.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMITM_871",
+  "municipio": "Itamarati"
+ },
+ {
+  "arquivo": "RMJAP_625.kmz",
+  "url": "kml/ramais/RMJAP_625.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. AMAZONINO MENDES",
+  "ramal_key": "RMJAP_625",
+  "municipio": "JapurÃ¡"
+ },
+ {
+  "arquivo": "RMJUR_185.kmz",
+  "url": "kml/ramais/RMJUR_185.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMJUR_185",
+  "municipio": "JuruÃ¡"
+ },
+ {
+  "arquivo": "RMJUR_626.kmz",
+  "url": "kml/ramais/RMJUR_626.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMJUR_626",
+  "municipio": "JuruÃ¡"
+ },
+ {
+  "arquivo": "RMJUR_627.kmz",
+  "url": "kml/ramais/RMJUR_627.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. SAMUEL AMARAL",
+  "ramal_key": "RMJUR_627",
+  "municipio": "JuruÃ¡"
+ },
+ {
+  "arquivo": "RMJUR_628.kmz",
+  "url": "kml/ramais/RMJUR_628.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO IGARAPÃ GRANDE",
+  "ramal_key": "RMJUR_628",
+  "municipio": "JuruÃ¡"
+ },
+ {
+  "arquivo": "RMJUR_629.kmz",
+  "url": "kml/ramais/RMJUR_629.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO JAPÃ",
+  "ramal_key": "RMJUR_629",
+  "municipio": "JuruÃ¡"
+ },
+ {
+  "arquivo": "RMJUR_630.kmz",
+  "url": "kml/ramais/RMJUR_630.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMJUR_630",
+  "municipio": "JuruÃ¡"
+ },
+ {
+  "arquivo": "RMJUT_641.kmz",
+  "url": "kml/ramais/RMJUT_641.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMJUT_641",
+  "municipio": "JutaÃ­"
+ },
+ {
+  "arquivo": "RMJUT_642.kmz",
+  "url": "kml/ramais/RMJUT_642.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMJUT_642",
+  "municipio": "JutaÃ­"
+ },
+ {
+  "arquivo": "RMJUT_643.kmz",
+  "url": "kml/ramais/RMJUT_643.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. TEOTÃNIO CAVALCANTE",
+  "ramal_key": "RMJUT_643",
+  "municipio": "JutaÃ­"
+ },
+ {
+  "arquivo": "RMJUT_644.kmz",
+  "url": "kml/ramais/RMJUT_644.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMJUT_644",
+  "municipio": "JutaÃ­"
+ },
+ {
+  "arquivo": "RMJUT_645.kmz",
+  "url": "kml/ramais/RMJUT_645.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA SANTA CRUZ",
+  "ramal_key": "RMJUT_645",
+  "municipio": "JutaÃ­"
+ },
+ {
+  "arquivo": "RMLAB_646.kmz",
+  "url": "kml/ramais/RMLAB_646.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMLAB_646",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMLAB_647.kmz",
+  "url": "kml/ramais/RMLAB_647.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMLAB_647",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMLAB_648.kmz",
+  "url": "kml/ramais/RMLAB_648.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMLAB_648",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMLAB_649.kmz",
+  "url": "kml/ramais/RMLAB_649.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMLAB_649",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMLAB_650.kmz",
+  "url": "kml/ramais/RMLAB_650.kmz",
+  "tipo": "ramal",
+  "rodovia": "ANTIGA ESTRADA DO BARREIRO",
+  "ramal_key": "RMLAB_650",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMLAB_651.kmz",
+  "url": "kml/ramais/RMLAB_651.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. LUÃS FALCÃO",
+  "ramal_key": "RMLAB_651",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMLAB_652.kmz",
+  "url": "kml/ramais/RMLAB_652.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO BARREIRO",
+  "ramal_key": "RMLAB_652",
+  "municipio": "LÃ¡brea"
+ },
+ {
+  "arquivo": "RMMAC_186.kmz",
+  "url": "kml/ramais/RMMAC_186.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_186",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_187.kmz",
+  "url": "kml/ramais/RMMAC_187.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_187",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_188.kmz",
+  "url": "kml/ramais/RMMAC_188.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_188",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_189.kmz",
+  "url": "kml/ramais/RMMAC_189.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_189",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_190.kmz",
+  "url": "kml/ramais/RMMAC_190.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_190",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_191.kmz",
+  "url": "kml/ramais/RMMAC_191.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_191",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_192.kmz",
+  "url": "kml/ramais/RMMAC_192.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_192",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_193.kmz",
+  "url": "kml/ramais/RMMAC_193.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_193",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_194.kmz",
+  "url": "kml/ramais/RMMAC_194.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_194",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_195.kmz",
+  "url": "kml/ramais/RMMAC_195.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_195",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_196.kmz",
+  "url": "kml/ramais/RMMAC_196.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_196",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_197.kmz",
+  "url": "kml/ramais/RMMAC_197.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_197",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_198.kmz",
+  "url": "kml/ramais/RMMAC_198.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_198",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_199.kmz",
+  "url": "kml/ramais/RMMAC_199.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_199",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_200.kmz",
+  "url": "kml/ramais/RMMAC_200.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_200",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_201.kmz",
+  "url": "kml/ramais/RMMAC_201.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_201",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_202.kmz",
+  "url": "kml/ramais/RMMAC_202.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_202",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_203.kmz",
+  "url": "kml/ramais/RMMAC_203.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_203",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_204.kmz",
+  "url": "kml/ramais/RMMAC_204.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_204",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_205.kmz",
+  "url": "kml/ramais/RMMAC_205.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_205",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_206.kmz",
+  "url": "kml/ramais/RMMAC_206.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_206",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_207.kmz",
+  "url": "kml/ramais/RMMAC_207.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMMAC_207",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_208.kmz",
+  "url": "kml/ramais/RMMAC_208.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_208",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_209.kmz",
+  "url": "kml/ramais/RMMAC_209.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_209",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_210.kmz",
+  "url": "kml/ramais/RMMAC_210.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_210",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_211.kmz",
+  "url": "kml/ramais/RMMAC_211.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_211",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_212.kmz",
+  "url": "kml/ramais/RMMAC_212.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_212",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_213.kmz",
+  "url": "kml/ramais/RMMAC_213.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_213",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_214.kmz",
+  "url": "kml/ramais/RMMAC_214.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_214",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_215.kmz",
+  "url": "kml/ramais/RMMAC_215.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_215",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_216.kmz",
+  "url": "kml/ramais/RMMAC_216.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_216",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_217.kmz",
+  "url": "kml/ramais/RMMAC_217.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_217",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_218.kmz",
+  "url": "kml/ramais/RMMAC_218.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_218",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_219.kmz",
+  "url": "kml/ramais/RMMAC_219.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_219",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_220.kmz",
+  "url": "kml/ramais/RMMAC_220.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_220",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_221.kmz",
+  "url": "kml/ramais/RMMAC_221.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_221",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_222.kmz",
+  "url": "kml/ramais/RMMAC_222.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_222",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_223.kmz",
+  "url": "kml/ramais/RMMAC_223.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_223",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_224.kmz",
+  "url": "kml/ramais/RMMAC_224.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_224",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_225.kmz",
+  "url": "kml/ramais/RMMAC_225.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_225",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_226.kmz",
+  "url": "kml/ramais/RMMAC_226.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_226",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_227.kmz",
+  "url": "kml/ramais/RMMAC_227.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_227",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_228.kmz",
+  "url": "kml/ramais/RMMAC_228.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_228",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_229.kmz",
+  "url": "kml/ramais/RMMAC_229.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_229",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_230.kmz",
+  "url": "kml/ramais/RMMAC_230.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_230",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_231.kmz",
+  "url": "kml/ramais/RMMAC_231.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-453",
+  "ramal_key": "RMMAC_231",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_513.kmz",
+  "url": "kml/ramais/RMMAC_513.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MEMBECA",
+  "ramal_key": "RMMAC_513",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_577.kmz",
+  "url": "kml/ramais/RMMAC_577.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAC_577",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_598.kmz",
+  "url": "kml/ramais/RMMAC_598.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO kM 18 - AM-352",
+  "ramal_key": "RMMAC_598",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_601.kmz",
+  "url": "kml/ramais/RMMAC_601.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMMAC_601",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_602.kmz",
+  "url": "kml/ramais/RMMAC_602.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO CALADO",
+  "ramal_key": "RMMAC_602",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_603.kmz",
+  "url": "kml/ramais/RMMAC_603.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-453",
+  "ramal_key": "RMMAC_603",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_604.kmz",
+  "url": "kml/ramais/RMMAC_604.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SANTA ROSA",
+  "ramal_key": "RMMAC_604",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_605.kmz",
+  "url": "kml/ramais/RMMAC_605.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-453",
+  "ramal_key": "RMMAC_605",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_606.kmz",
+  "url": "kml/ramais/RMMAC_606.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMMAC_606",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAC_607.kmz",
+  "url": "kml/ramais/RMMAC_607.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-453",
+  "ramal_key": "RMMAC_607",
+  "municipio": "Manacapuru"
+ },
+ {
+  "arquivo": "RMMAO_246.kmz",
+  "url": "kml/ramais/RMMAO_246.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_246",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_247.kmz",
+  "url": "kml/ramais/RMMAO_247.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL MATRINXÃ",
+  "ramal_key": "RMMAO_247",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_248.kmz",
+  "url": "kml/ramais/RMMAO_248.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_248",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_249.kmz",
+  "url": "kml/ramais/RMMAO_249.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_249",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_250.kmz",
+  "url": "kml/ramais/RMMAO_250.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_250",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_251.kmz",
+  "url": "kml/ramais/RMMAO_251.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_251",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_252.kmz",
+  "url": "kml/ramais/RMMAO_252.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA",
+  "ramal_key": "RMMAO_252",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_253.kmz",
+  "url": "kml/ramais/RMMAO_253.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA",
+  "ramal_key": "RMMAO_253",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_254.kmz",
+  "url": "kml/ramais/RMMAO_254.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA",
+  "ramal_key": "RMMAO_254",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_255.kmz",
+  "url": "kml/ramais/RMMAO_255.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA",
+  "ramal_key": "RMMAO_255",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_256.kmz",
+  "url": "kml/ramais/RMMAO_256.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA",
+  "ramal_key": "RMMAO_256",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_257.kmz",
+  "url": "kml/ramais/RMMAO_257.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_257",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_258.kmz",
+  "url": "kml/ramais/RMMAO_258.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_258",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_259.kmz",
+  "url": "kml/ramais/RMMAO_259.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_259",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_260.kmz",
+  "url": "kml/ramais/RMMAO_260.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_260",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_261.kmz",
+  "url": "kml/ramais/RMMAO_261.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_261",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_262.kmz",
+  "url": "kml/ramais/RMMAO_262.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_262",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_263.kmz",
+  "url": "kml/ramais/RMMAO_263.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_263",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_264.kmz",
+  "url": "kml/ramais/RMMAO_264.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_264",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_265.kmz",
+  "url": "kml/ramais/RMMAO_265.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_265",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_266.kmz",
+  "url": "kml/ramais/RMMAO_266.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_266",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_267.kmz",
+  "url": "kml/ramais/RMMAO_267.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_267",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_268.kmz",
+  "url": "kml/ramais/RMMAO_268.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO LEÃO",
+  "ramal_key": "RMMAO_268",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_269.kmz",
+  "url": "kml/ramais/RMMAO_269.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_269",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_270.kmz",
+  "url": "kml/ramais/RMMAO_270.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO LEÃO",
+  "ramal_key": "RMMAO_270",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_271.kmz",
+  "url": "kml/ramais/RMMAO_271.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_271",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_272.kmz",
+  "url": "kml/ramais/RMMAO_272.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO AREAL",
+  "ramal_key": "RMMAO_272",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_273.kmz",
+  "url": "kml/ramais/RMMAO_273.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_273",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_274.kmz",
+  "url": "kml/ramais/RMMAO_274.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SÃO FRANCISCO",
+  "ramal_key": "RMMAO_274",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_275.kmz",
+  "url": "kml/ramais/RMMAO_275.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SÃO FRANCISCO",
+  "ramal_key": "RMMAO_275",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_276.kmz",
+  "url": "kml/ramais/RMMAO_276.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_276",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_277.kmz",
+  "url": "kml/ramais/RMMAO_277.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO PATUÃ",
+  "ramal_key": "RMMAO_277",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_278.kmz",
+  "url": "kml/ramais/RMMAO_278.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO PATUÃ",
+  "ramal_key": "RMMAO_278",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_279.kmz",
+  "url": "kml/ramais/RMMAO_279.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO PATUÃ",
+  "ramal_key": "RMMAO_279",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_280.kmz",
+  "url": "kml/ramais/RMMAO_280.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_280",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_281.kmz",
+  "url": "kml/ramais/RMMAO_281.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA UNIÃO",
+  "ramal_key": "RMMAO_281",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_282.kmz",
+  "url": "kml/ramais/RMMAO_282.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA UNIÃO",
+  "ramal_key": "RMMAO_282",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_283.kmz",
+  "url": "kml/ramais/RMMAO_283.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_283",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_284.kmz",
+  "url": "kml/ramais/RMMAO_284.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO SANTO ANTÃNIO",
+  "ramal_key": "RMMAO_284",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_285.kmz",
+  "url": "kml/ramais/RMMAO_285.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO SANTO ANTÃNIO",
+  "ramal_key": "RMMAO_285",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_286.kmz",
+  "url": "kml/ramais/RMMAO_286.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO SANTO ANTÃNIO",
+  "ramal_key": "RMMAO_286",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_287.kmz",
+  "url": "kml/ramais/RMMAO_287.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO SANTO ANTÃNIO",
+  "ramal_key": "RMMAO_287",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_288.kmz",
+  "url": "kml/ramais/RMMAO_288.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO SANTO ANTÃNIO",
+  "ramal_key": "RMMAO_288",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_289.kmz",
+  "url": "kml/ramais/RMMAO_289.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_289",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_290.kmz",
+  "url": "kml/ramais/RMMAO_290.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DEUS POR NÃS",
+  "ramal_key": "RMMAO_290",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_291.kmz",
+  "url": "kml/ramais/RMMAO_291.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_291",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_292.kmz",
+  "url": "kml/ramais/RMMAO_292.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA ZF-1",
+  "ramal_key": "RMMAO_292",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_293.kmz",
+  "url": "kml/ramais/RMMAO_293.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA ZF-1",
+  "ramal_key": "RMMAO_293",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMMAO_294.kmz",
+  "url": "kml/ramais/RMMAO_294.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA ZF-1",
+  "ramal_key": "RMMAO_294",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMMAO_295.kmz",
+  "url": "kml/ramais/RMMAO_295.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_295",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_296.kmz",
+  "url": "kml/ramais/RMMAO_296.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_296",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_297.kmz",
+  "url": "kml/ramais/RMMAO_297.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_297",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMMAO_298.kmz",
+  "url": "kml/ramais/RMMAO_298.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_298",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_299.kmz",
+  "url": "kml/ramais/RMMAO_299.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_299",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_300.kmz",
+  "url": "kml/ramais/RMMAO_300.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_300",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_301.kmz",
+  "url": "kml/ramais/RMMAO_301.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_301",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_302.kmz",
+  "url": "kml/ramais/RMMAO_302.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SOL NASCENTE",
+  "ramal_key": "RMMAO_302",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_303.kmz",
+  "url": "kml/ramais/RMMAO_303.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SOL NASCENTE",
+  "ramal_key": "RMMAO_303",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_304.kmz",
+  "url": "kml/ramais/RMMAO_304.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_304",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_305.kmz",
+  "url": "kml/ramais/RMMAO_305.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_305",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_306.kmz",
+  "url": "kml/ramais/RMMAO_306.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_306",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_307.kmz",
+  "url": "kml/ramais/RMMAO_307.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_307",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_308.kmz",
+  "url": "kml/ramais/RMMAO_308.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_308",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_309.kmz",
+  "url": "kml/ramais/RMMAO_309.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_309",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_310.kmz",
+  "url": "kml/ramais/RMMAO_310.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_310",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_311.kmz",
+  "url": "kml/ramais/RMMAO_311.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_311",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_312.kmz",
+  "url": "kml/ramais/RMMAO_312.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_312",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_313.kmz",
+  "url": "kml/ramais/RMMAO_313.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_313",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_314.kmz",
+  "url": "kml/ramais/RMMAO_314.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_314",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_315.kmz",
+  "url": "kml/ramais/RMMAO_315.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_315",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_316.kmz",
+  "url": "kml/ramais/RMMAO_316.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_316",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_317.kmz",
+  "url": "kml/ramais/RMMAO_317.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_317",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_318.kmz",
+  "url": "kml/ramais/RMMAO_318.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_318",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_319.kmz",
+  "url": "kml/ramais/RMMAO_319.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_319",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_320.kmz",
+  "url": "kml/ramais/RMMAO_320.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_320",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_321.kmz",
+  "url": "kml/ramais/RMMAO_321.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_321",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_322.kmz",
+  "url": "kml/ramais/RMMAO_322.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_322",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_323.kmz",
+  "url": "kml/ramais/RMMAO_323.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_323",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_324.kmz",
+  "url": "kml/ramais/RMMAO_324.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_324",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_325.kmz",
+  "url": "kml/ramais/RMMAO_325.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. GERGELIM",
+  "ramal_key": "RMMAO_325",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_326.kmz",
+  "url": "kml/ramais/RMMAO_326.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_326",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_327.kmz",
+  "url": "kml/ramais/RMMAO_327.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_327",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_328.kmz",
+  "url": "kml/ramais/RMMAO_328.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SOL NASCENTE",
+  "ramal_key": "RMMAO_328",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_329.kmz",
+  "url": "kml/ramais/RMMAO_329.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SOL NASCENTE",
+  "ramal_key": "RMMAO_329",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_330.kmz",
+  "url": "kml/ramais/RMMAO_330.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_330",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_331.kmz",
+  "url": "kml/ramais/RMMAO_331.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO PAU ROSA",
+  "ramal_key": "RMMAO_331",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_332.kmz",
+  "url": "kml/ramais/RMMAO_332.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_332",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_333.kmz",
+  "url": "kml/ramais/RMMAO_333.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_333",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_334.kmz",
+  "url": "kml/ramais/RMMAO_334.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_334",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_335.kmz",
+  "url": "kml/ramais/RMMAO_335.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA 2",
+  "ramal_key": "RMMAO_335",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_336.kmz",
+  "url": "kml/ramais/RMMAO_336.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_336",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_503.kmz",
+  "url": "kml/ramais/RMMAO_503.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL NOVO PARAÃSO",
+  "ramal_key": "RMMAO_503",
+  "municipio": "Barcelos"
+ },
+ {
+  "arquivo": "RMMAO_687.kmz",
+  "url": "kml/ramais/RMMAO_687.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SÃO FRANCISCO",
+  "ramal_key": "RMMAO_687",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_688.kmz",
+  "url": "kml/ramais/RMMAO_688.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SÃO FRANCISCO",
+  "ramal_key": "RMMAO_688",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_689.kmz",
+  "url": "kml/ramais/RMMAO_689.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA COOPERATIVA",
+  "ramal_key": "RMMAO_689",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_780.kmz",
+  "url": "kml/ramais/RMMAO_780.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_780",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_781.kmz",
+  "url": "kml/ramais/RMMAO_781.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_781",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAO_782.kmz",
+  "url": "kml/ramais/RMMAO_782.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SOL NASCENTE",
+  "ramal_key": "RMMAO_782",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMMAQ_232.kmz",
+  "url": "kml/ramais/RMMAQ_232.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_232",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_233.kmz",
+  "url": "kml/ramais/RMMAQ_233.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_233",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_234.kmz",
+  "url": "kml/ramais/RMMAQ_234.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_234",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_235.kmz",
+  "url": "kml/ramais/RMMAQ_235.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_235",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_236.kmz",
+  "url": "kml/ramais/RMMAQ_236.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_236",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_237.kmz",
+  "url": "kml/ramais/RMMAQ_237.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_237",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_238.kmz",
+  "url": "kml/ramais/RMMAQ_238.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_238",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_239.kmz",
+  "url": "kml/ramais/RMMAQ_239.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_239",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_240.kmz",
+  "url": "kml/ramais/RMMAQ_240.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_240",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_241.kmz",
+  "url": "kml/ramais/RMMAQ_241.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_241",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_242.kmz",
+  "url": "kml/ramais/RMMAQ_242.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_242",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_243.kmz",
+  "url": "kml/ramais/RMMAQ_243.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_243",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_244.kmz",
+  "url": "kml/ramais/RMMAQ_244.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_244",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_245.kmz",
+  "url": "kml/ramais/RMMAQ_245.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO BARRO ALTO",
+  "ramal_key": "RMMAQ_245",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAQ_784.kmz",
+  "url": "kml/ramais/RMMAQ_784.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO kM 27 - AM-354",
+  "ramal_key": "RMMAQ_784",
+  "municipio": "Manaquiri"
+ },
+ {
+  "arquivo": "RMMAU_697.kmz",
+  "url": "kml/ramais/RMMAU_697.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_697",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_698.kmz",
+  "url": "kml/ramais/RMMAU_698.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO PUPUNHAL",
+  "ramal_key": "RMMAU_698",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_699.kmz",
+  "url": "kml/ramais/RMMAU_699.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO PUPUNHAL",
+  "ramal_key": "RMMAU_699",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_700.kmz",
+  "url": "kml/ramais/RMMAU_700.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MIRI MORÃES",
+  "ramal_key": "RMMAU_700",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_701.kmz",
+  "url": "kml/ramais/RMMAU_701.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. PREF. ROD. ALBUQUERQUE",
+  "ramal_key": "RMMAU_701",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_702.kmz",
+  "url": "kml/ramais/RMMAU_702.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DOS MORAIS",
+  "ramal_key": "RMMAU_702",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_703.kmz",
+  "url": "kml/ramais/RMMAU_703.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_703",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_704.kmz",
+  "url": "kml/ramais/RMMAU_704.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA MAUÃS MIRI",
+  "ramal_key": "RMMAU_704",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_705.kmz",
+  "url": "kml/ramais/RMMAU_705.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. RAMAL ADOLFO CARNEIRO",
+  "ramal_key": "RMMAU_705",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_706.kmz",
+  "url": "kml/ramais/RMMAU_706.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO PUPUNHAL",
+  "ramal_key": "RMMAU_706",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_707.kmz",
+  "url": "kml/ramais/RMMAU_707.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO PUPUNHAL",
+  "ramal_key": "RMMAU_707",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_708.kmz",
+  "url": "kml/ramais/RMMAU_708.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO PUPUNHAL",
+  "ramal_key": "RMMAU_708",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_709.kmz",
+  "url": "kml/ramais/RMMAU_709.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO GUARANATUBA",
+  "ramal_key": "RMMAU_709",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_710.kmz",
+  "url": "kml/ramais/RMMAU_710.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DOS MORAIS",
+  "ramal_key": "RMMAU_710",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_711.kmz",
+  "url": "kml/ramais/RMMAU_711.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_711",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_712.kmz",
+  "url": "kml/ramais/RMMAU_712.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_712",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_713.kmz",
+  "url": "kml/ramais/RMMAU_713.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_713",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_714.kmz",
+  "url": "kml/ramais/RMMAU_714.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_714",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_715.kmz",
+  "url": "kml/ramais/RMMAU_715.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA MAUÃS MIRI",
+  "ramal_key": "RMMAU_715",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_716.kmz",
+  "url": "kml/ramais/RMMAU_716.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA MAUÃS MIRI",
+  "ramal_key": "RMMAU_716",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_717.kmz",
+  "url": "kml/ramais/RMMAU_717.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO BACABAU",
+  "ramal_key": "RMMAU_717",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_718.kmz",
+  "url": "kml/ramais/RMMAU_718.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_718",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_719.kmz",
+  "url": "kml/ramais/RMMAU_719.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_719",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_720.kmz",
+  "url": "kml/ramais/RMMAU_720.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_720",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_721.kmz",
+  "url": "kml/ramais/RMMAU_721.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_721",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_722.kmz",
+  "url": "kml/ramais/RMMAU_722.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_722",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_723.kmz",
+  "url": "kml/ramais/RMMAU_723.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_723",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_724.kmz",
+  "url": "kml/ramais/RMMAU_724.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_724",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_725.kmz",
+  "url": "kml/ramais/RMMAU_725.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_725",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMAU_726.kmz",
+  "url": "kml/ramais/RMMAU_726.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMAU_726",
+  "municipio": "MauÃ©s"
+ },
+ {
+  "arquivo": "RMMIC_653.kmz",
+  "url": "kml/ramais/RMMIC_653.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO ARCAL",
+  "ramal_key": "RMMIC_653",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_654.kmz",
+  "url": "kml/ramais/RMMIC_654.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SINDICATO",
+  "ramal_key": "RMMIC_654",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_655.kmz",
+  "url": "kml/ramais/RMMIC_655.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMIC_655",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_656.kmz",
+  "url": "kml/ramais/RMMIC_656.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SINDICATO",
+  "ramal_key": "RMMIC_656",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_657.kmz",
+  "url": "kml/ramais/RMMIC_657.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SINDICATO",
+  "ramal_key": "RMMIC_657",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_658.kmz",
+  "url": "kml/ramais/RMMIC_658.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO SINDICATO",
+  "ramal_key": "RMMIC_658",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_659.kmz",
+  "url": "kml/ramais/RMMIC_659.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. SÃO VICENTE",
+  "ramal_key": "RMMIC_659",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_660.kmz",
+  "url": "kml/ramais/RMMIC_660.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. MAJ. SANTANA",
+  "ramal_key": "RMMIC_660",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_661.kmz",
+  "url": "kml/ramais/RMMIC_661.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO ANTININGA",
+  "ramal_key": "RMMIC_661",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_662.kmz",
+  "url": "kml/ramais/RMMIC_662.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO ANTININGA",
+  "ramal_key": "RMMIC_662",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_663.kmz",
+  "url": "kml/ramais/RMMIC_663.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO ANTININGA",
+  "ramal_key": "RMMIC_663",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_664.kmz",
+  "url": "kml/ramais/RMMIC_664.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO INAJÃ",
+  "ramal_key": "RMMIC_664",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_665.kmz",
+  "url": "kml/ramais/RMMIC_665.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO RIO MANICORÃ",
+  "ramal_key": "RMMIC_665",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_666.kmz",
+  "url": "kml/ramais/RMMIC_666.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO ATININGA",
+  "ramal_key": "RMMIC_666",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_667.kmz",
+  "url": "kml/ramais/RMMIC_667.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMIC_667",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_668.kmz",
+  "url": "kml/ramais/RMMIC_668.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_668",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_669.kmz",
+  "url": "kml/ramais/RMMIC_669.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_669",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_670.kmz",
+  "url": "kml/ramais/RMMIC_670.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_670",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_671.kmz",
+  "url": "kml/ramais/RMMIC_671.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_671",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_672.kmz",
+  "url": "kml/ramais/RMMIC_672.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_672",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_673.kmz",
+  "url": "kml/ramais/RMMIC_673.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_673",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_674.kmz",
+  "url": "kml/ramais/RMMIC_674.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_674",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_675.kmz",
+  "url": "kml/ramais/RMMIC_675.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_675",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_676.kmz",
+  "url": "kml/ramais/RMMIC_676.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_676",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_677.kmz",
+  "url": "kml/ramais/RMMIC_677.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-230",
+  "ramal_key": "RMMIC_677",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMIC_690.kmz",
+  "url": "kml/ramais/RMMIC_690.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. MAJ. SANTANA",
+  "ramal_key": "RMMIC_690",
+  "municipio": "ManicorÃ©"
+ },
+ {
+  "arquivo": "RMMRA_906.kmz",
+  "url": "kml/ramais/RMMRA_906.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMMRA_906",
+  "municipio": "MaraÃ£"
+ },
+ {
+  "arquivo": "RMNAR_493.kmz",
+  "url": "kml/ramais/RMNAR_493.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-360",
+  "ramal_key": "RMNAR_493",
+  "municipio": "Novo AripuanÃ£"
+ },
+ {
+  "arquivo": "RMNAV_340.kmz",
+  "url": "kml/ramais/RMNAV_340.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_340",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_341.kmz",
+  "url": "kml/ramais/RMNAV_341.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_341",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_342.kmz",
+  "url": "kml/ramais/RMNAV_342.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_342",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_343.kmz",
+  "url": "kml/ramais/RMNAV_343.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_343",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_344.kmz",
+  "url": "kml/ramais/RMNAV_344.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_344",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_345.kmz",
+  "url": "kml/ramais/RMNAV_345.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_345",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_346.kmz",
+  "url": "kml/ramais/RMNAV_346.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_346",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_347.kmz",
+  "url": "kml/ramais/RMNAV_347.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_347",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_348.kmz",
+  "url": "kml/ramais/RMNAV_348.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_348",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_349.kmz",
+  "url": "kml/ramais/RMNAV_349.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_349",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_350.kmz",
+  "url": "kml/ramais/RMNAV_350.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_350",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_351.kmz",
+  "url": "kml/ramais/RMNAV_351.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_351",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_352.kmz",
+  "url": "kml/ramais/RMNAV_352.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_352",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_353.kmz",
+  "url": "kml/ramais/RMNAV_353.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_353",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNAV_695.kmz",
+  "url": "kml/ramais/RMNAV_695.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-352",
+  "ramal_key": "RMNAV_695",
+  "municipio": "Novo AirÃ£o"
+ },
+ {
+  "arquivo": "RMNHA_678.kmz",
+  "url": "kml/ramais/RMNHA_678.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMNHA_678",
+  "municipio": "NhamundÃ¡"
+ },
+ {
+  "arquivo": "RMNHA_679.kmz",
+  "url": "kml/ramais/RMNHA_679.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMNHA_679",
+  "municipio": "NhamundÃ¡"
+ },
+ {
+  "arquivo": "RMNON_337.kmz",
+  "url": "kml/ramais/RMNON_337.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMNON_337",
+  "municipio": "Nova Olinda do Norte"
+ },
+ {
+  "arquivo": "RMNON_338.kmz",
+  "url": "kml/ramais/RMNON_338.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-255",
+  "ramal_key": "RMNON_338",
+  "municipio": "Nova Olinda do Norte"
+ },
+ {
+  "arquivo": "RMNON_339.kmz",
+  "url": "kml/ramais/RMNON_339.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMNON_339",
+  "municipio": "Nova Olinda do Norte"
+ },
+ {
+  "arquivo": "RMNON_696.kmz",
+  "url": "kml/ramais/RMNON_696.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMNON_696",
+  "municipio": "Nova Olinda do Norte"
+ },
+ {
+  "arquivo": "RMPAR_354.kmz",
+  "url": "kml/ramais/RMPAR_354.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DOS ANINGAS",
+  "ramal_key": "RMPAR_354",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_355.kmz",
+  "url": "kml/ramais/RMPAR_355.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO CONTÃRNO",
+  "ramal_key": "RMPAR_355",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_356.kmz",
+  "url": "kml/ramais/RMPAR_356.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MACURANY",
+  "ramal_key": "RMPAR_356",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_357.kmz",
+  "url": "kml/ramais/RMPAR_357.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MACURANY",
+  "ramal_key": "RMPAR_357",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_609.kmz",
+  "url": "kml/ramais/RMPAR_609.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. ATAUNA",
+  "ramal_key": "RMPAR_609",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_617.kmz",
+  "url": "kml/ramais/RMPAR_617.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MACURANY",
+  "ramal_key": "RMPAR_617",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_618.kmz",
+  "url": "kml/ramais/RMPAR_618.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. NAÃÃES UNIDAS",
+  "ramal_key": "RMPAR_618",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_619.kmz",
+  "url": "kml/ramais/RMPAR_619.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA ODOVALDO NOVO",
+  "ramal_key": "RMPAR_619",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_620.kmz",
+  "url": "kml/ramais/RMPAR_620.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO CONTÃRNO",
+  "ramal_key": "RMPAR_620",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_750.kmz",
+  "url": "kml/ramais/RMPAR_750.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. MENDOÃA",
+  "ramal_key": "RMPAR_750",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_751.kmz",
+  "url": "kml/ramais/RMPAR_751.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MOCAMBO",
+  "ramal_key": "RMPAR_751",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAR_752.kmz",
+  "url": "kml/ramais/RMPAR_752.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO MOCAMBO",
+  "ramal_key": "RMPAR_752",
+  "municipio": "Parintins"
+ },
+ {
+  "arquivo": "RMPAU_691.kmz",
+  "url": "kml/ramais/RMPAU_691.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. CASTELO BRANCO",
+  "ramal_key": "RMPAU_691",
+  "municipio": "Pauini"
+ },
+ {
+  "arquivo": "RMPAU_692.kmz",
+  "url": "kml/ramais/RMPAU_692.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMPAU_692",
+  "municipio": "Pauini"
+ },
+ {
+  "arquivo": "RMPAU_693.kmz",
+  "url": "kml/ramais/RMPAU_693.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMPAU_693",
+  "municipio": "Pauini"
+ },
+ {
+  "arquivo": "RMPAU_694.kmz",
+  "url": "kml/ramais/RMPAU_694.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA PN-1",
+  "ramal_key": "RMPAU_694",
+  "municipio": "Pauini"
+ },
+ {
+  "arquivo": "RMPRF_358.kmz",
+  "url": "kml/ramais/RMPRF_358.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_358",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_359.kmz",
+  "url": "kml/ramais/RMPRF_359.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_359",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_360.kmz",
+  "url": "kml/ramais/RMPRF_360.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_360",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_361.kmz",
+  "url": "kml/ramais/RMPRF_361.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_361",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_362.kmz",
+  "url": "kml/ramais/RMPRF_362.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_362",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_363.kmz",
+  "url": "kml/ramais/RMPRF_363.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_363",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_364.kmz",
+  "url": "kml/ramais/RMPRF_364.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_364",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_365.kmz",
+  "url": "kml/ramais/RMPRF_365.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_365",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_366.kmz",
+  "url": "kml/ramais/RMPRF_366.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_366",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_367.kmz",
+  "url": "kml/ramais/RMPRF_367.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_367",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_368.kmz",
+  "url": "kml/ramais/RMPRF_368.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_368",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_369.kmz",
+  "url": "kml/ramais/RMPRF_369.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_369",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_370.kmz",
+  "url": "kml/ramais/RMPRF_370.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_370",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_371.kmz",
+  "url": "kml/ramais/RMPRF_371.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_371",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_372.kmz",
+  "url": "kml/ramais/RMPRF_372.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_372",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_373.kmz",
+  "url": "kml/ramais/RMPRF_373.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_373",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_374.kmz",
+  "url": "kml/ramais/RMPRF_374.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_374",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_375.kmz",
+  "url": "kml/ramais/RMPRF_375.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_375",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_376.kmz",
+  "url": "kml/ramais/RMPRF_376.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_376",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_377.kmz",
+  "url": "kml/ramais/RMPRF_377.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_377",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_378.kmz",
+  "url": "kml/ramais/RMPRF_378.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_378",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_379.kmz",
+  "url": "kml/ramais/RMPRF_379.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_379",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_380.kmz",
+  "url": "kml/ramais/RMPRF_380.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_380",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_381.kmz",
+  "url": "kml/ramais/RMPRF_381.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_381",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_382.kmz",
+  "url": "kml/ramais/RMPRF_382.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMPRF_382",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_383.kmz",
+  "url": "kml/ramais/RMPRF_383.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_383",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_384.kmz",
+  "url": "kml/ramais/RMPRF_384.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_384",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_385.kmz",
+  "url": "kml/ramais/RMPRF_385.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_385",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_386.kmz",
+  "url": "kml/ramais/RMPRF_386.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_386",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_387.kmz",
+  "url": "kml/ramais/RMPRF_387.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_387",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_388.kmz",
+  "url": "kml/ramais/RMPRF_388.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_388",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_389.kmz",
+  "url": "kml/ramais/RMPRF_389.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_389",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_390.kmz",
+  "url": "kml/ramais/RMPRF_390.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_390",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_391.kmz",
+  "url": "kml/ramais/RMPRF_391.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_391",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_392.kmz",
+  "url": "kml/ramais/RMPRF_392.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_392",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_393.kmz",
+  "url": "kml/ramais/RMPRF_393.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_393",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_394.kmz",
+  "url": "kml/ramais/RMPRF_394.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_394",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_395.kmz",
+  "url": "kml/ramais/RMPRF_395.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_395",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_396.kmz",
+  "url": "kml/ramais/RMPRF_396.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_396",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_397.kmz",
+  "url": "kml/ramais/RMPRF_397.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_397",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_398.kmz",
+  "url": "kml/ramais/RMPRF_398.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_398",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_399.kmz",
+  "url": "kml/ramais/RMPRF_399.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_399",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_400.kmz",
+  "url": "kml/ramais/RMPRF_400.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_400",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_401.kmz",
+  "url": "kml/ramais/RMPRF_401.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_401",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_402.kmz",
+  "url": "kml/ramais/RMPRF_402.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_402",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_901.kmz",
+  "url": "kml/ramais/RMPRF_901.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO URUBUÃ",
+  "ramal_key": "RMPRF_901",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_902.kmz",
+  "url": "kml/ramais/RMPRF_902.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO URUBUÃ",
+  "ramal_key": "RMPRF_902",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_903.kmz",
+  "url": "kml/ramais/RMPRF_903.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA COMUNIDADE MARUAGA",
+  "ramal_key": "RMPRF_903",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPRF_904.kmz",
+  "url": "kml/ramais/RMPRF_904.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA BOA ESPERANÃA",
+  "ramal_key": "RMPRF_904",
+  "municipio": "Presidente Figueiredo"
+ },
+ {
+  "arquivo": "RMPUN_905.kmz",
+  "url": "kml/ramais/RMPUN_905.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA MACUTI",
+  "ramal_key": "RMPUN_905",
+  "municipio": "Pauini"
+ },
+ {
+  "arquivo": "RMRPE_403.kmz",
+  "url": "kml/ramais/RMRPE_403.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_403",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMRPE_404.kmz",
+  "url": "kml/ramais/RMRPE_404.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_404",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_405.kmz",
+  "url": "kml/ramais/RMRPE_405.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_405",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_406.kmz",
+  "url": "kml/ramais/RMRPE_406.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_406",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_407.kmz",
+  "url": "kml/ramais/RMRPE_407.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_407",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_408.kmz",
+  "url": "kml/ramais/RMRPE_408.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SULIVAN PORTELA",
+  "ramal_key": "RMRPE_408",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_409.kmz",
+  "url": "kml/ramais/RMRPE_409.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SULIVAN PORTELA",
+  "ramal_key": "RMRPE_409",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_410.kmz",
+  "url": "kml/ramais/RMRPE_410.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SULIVAN PORTELA",
+  "ramal_key": "RMRPE_410",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_411.kmz",
+  "url": "kml/ramais/RMRPE_411.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL SULIVAN PORTELA",
+  "ramal_key": "RMRPE_411",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_412.kmz",
+  "url": "kml/ramais/RMRPE_412.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_412",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_413.kmz",
+  "url": "kml/ramais/RMRPE_413.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_413",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_414.kmz",
+  "url": "kml/ramais/RMRPE_414.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_414",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_415.kmz",
+  "url": "kml/ramais/RMRPE_415.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_415",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_416.kmz",
+  "url": "kml/ramais/RMRPE_416.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_416",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_417.kmz",
+  "url": "kml/ramais/RMRPE_417.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_417",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_418.kmz",
+  "url": "kml/ramais/RMRPE_418.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_418",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_419.kmz",
+  "url": "kml/ramais/RMRPE_419.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_419",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_420.kmz",
+  "url": "kml/ramais/RMRPE_420.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_420",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_421.kmz",
+  "url": "kml/ramais/RMRPE_421.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_421",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_422.kmz",
+  "url": "kml/ramais/RMRPE_422.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL IFIBRAM",
+  "ramal_key": "RMRPE_422",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_423.kmz",
+  "url": "kml/ramais/RMRPE_423.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_423",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_424.kmz",
+  "url": "kml/ramais/RMRPE_424.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_424",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_425.kmz",
+  "url": "kml/ramais/RMRPE_425.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_425",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_426.kmz",
+  "url": "kml/ramais/RMRPE_426.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_426",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_427.kmz",
+  "url": "kml/ramais/RMRPE_427.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_427",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_428.kmz",
+  "url": "kml/ramais/RMRPE_428.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_428",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_429.kmz",
+  "url": "kml/ramais/RMRPE_429.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_429",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_430.kmz",
+  "url": "kml/ramais/RMRPE_430.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_430",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_431.kmz",
+  "url": "kml/ramais/RMRPE_431.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_431",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_432.kmz",
+  "url": "kml/ramais/RMRPE_432.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_432",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_433.kmz",
+  "url": "kml/ramais/RMRPE_433.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_433",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_434.kmz",
+  "url": "kml/ramais/RMRPE_434.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_434",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_435.kmz",
+  "url": "kml/ramais/RMRPE_435.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_435",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_436.kmz",
+  "url": "kml/ramais/RMRPE_436.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_436",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_437.kmz",
+  "url": "kml/ramais/RMRPE_437.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_437",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_438.kmz",
+  "url": "kml/ramais/RMRPE_438.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_438",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_439.kmz",
+  "url": "kml/ramais/RMRPE_439.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_439",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_440.kmz",
+  "url": "kml/ramais/RMRPE_440.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_440",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_441.kmz",
+  "url": "kml/ramais/RMRPE_441.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_441",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_442.kmz",
+  "url": "kml/ramais/RMRPE_442.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_442",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_443.kmz",
+  "url": "kml/ramais/RMRPE_443.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_443",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_444.kmz",
+  "url": "kml/ramais/RMRPE_444.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_444",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_445.kmz",
+  "url": "kml/ramais/RMRPE_445.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_445",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_446.kmz",
+  "url": "kml/ramais/RMRPE_446.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_446",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_447.kmz",
+  "url": "kml/ramais/RMRPE_447.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_447",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_448.kmz",
+  "url": "kml/ramais/RMRPE_448.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_448",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_449.kmz",
+  "url": "kml/ramais/RMRPE_449.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO MANAPOLIS",
+  "ramal_key": "RMRPE_449",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_450.kmz",
+  "url": "kml/ramais/RMRPE_450.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_450",
+  "municipio": "Itacoatiara"
+ },
+ {
+  "arquivo": "RMRPE_451.kmz",
+  "url": "kml/ramais/RMRPE_451.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_451",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_452.kmz",
+  "url": "kml/ramais/RMRPE_452.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_452",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_453.kmz",
+  "url": "kml/ramais/RMRPE_453.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMRPE_453",
+  "municipio": "Manaus"
+ },
+ {
+  "arquivo": "RMRPE_454.kmz",
+  "url": "kml/ramais/RMRPE_454.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMRPE_454",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_455.kmz",
+  "url": "kml/ramais/RMRPE_455.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_455",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_894.kmz",
+  "url": "kml/ramais/RMRPE_894.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO MANAPOLIS",
+  "ramal_key": "RMRPE_894",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_895.kmz",
+  "url": "kml/ramais/RMRPE_895.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO MANAPOLIS",
+  "ramal_key": "RMRPE_895",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_896.kmz",
+  "url": "kml/ramais/RMRPE_896.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO MANAPOLIS",
+  "ramal_key": "RMRPE_896",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_897.kmz",
+  "url": "kml/ramais/RMRPE_897.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO MANAPOLIS",
+  "ramal_key": "RMRPE_897",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_898.kmz",
+  "url": "kml/ramais/RMRPE_898.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO MANAPOLIS",
+  "ramal_key": "RMRPE_898",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_899.kmz",
+  "url": "kml/ramais/RMRPE_899.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ASA BRANCA",
+  "ramal_key": "RMRPE_899",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMRPE_900.kmz",
+  "url": "kml/ramais/RMRPE_900.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ASA BRANCA",
+  "ramal_key": "RMRPE_900",
+  "municipio": "Rio Preto da Eva"
+ },
+ {
+  "arquivo": "RMSAI_742.kmz",
+  "url": "kml/ramais/RMSAI_742.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA PRESIDENTE VARGAS",
+  "ramal_key": "RMSAI_742",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_743.kmz",
+  "url": "kml/ramais/RMSAI_743.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-374",
+  "ramal_key": "RMSAI_743",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_744.kmz",
+  "url": "kml/ramais/RMSAI_744.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-374",
+  "ramal_key": "RMSAI_744",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_745.kmz",
+  "url": "kml/ramais/RMSAI_745.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA SÃO SALVADOR",
+  "ramal_key": "RMSAI_745",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_746.kmz",
+  "url": "kml/ramais/RMSAI_746.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-374",
+  "ramal_key": "RMSAI_746",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_747.kmz",
+  "url": "kml/ramais/RMSAI_747.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL BOM FUTURO",
+  "ramal_key": "RMSAI_747",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_748.kmz",
+  "url": "kml/ramais/RMSAI_748.kmz",
+  "tipo": "ramal",
+  "rodovia": "VILA MILITAR",
+  "ramal_key": "RMSAI_748",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSAI_749.kmz",
+  "url": "kml/ramais/RMSAI_749.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. ALVARO MAIA",
+  "ramal_key": "RMSAI_749",
+  "municipio": "Santo AntÃ´nio do IÃ§Ã¡"
+ },
+ {
+  "arquivo": "RMSGC_535.kmz",
+  "url": "kml/ramais/RMSGC_535.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-239",
+  "ramal_key": "RMSGC_535",
+  "municipio": "SÃ£o Gabriel da Cachoeira"
+ },
+ {
+  "arquivo": "RMSGC_682.kmz",
+  "url": "kml/ramais/RMSGC_682.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. PAU BRASIL",
+  "ramal_key": "RMSGC_682",
+  "municipio": "SÃ£o Gabriel da Cachoeira"
+ },
+ {
+  "arquivo": "RMSGC_683.kmz",
+  "url": "kml/ramais/RMSGC_683.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DA CACHOERINHA",
+  "ramal_key": "RMSGC_683",
+  "municipio": "SÃ£o Gabriel da Cachoeira"
+ },
+ {
+  "arquivo": "RMSGC_684.kmz",
+  "url": "kml/ramais/RMSGC_684.kmz",
+  "tipo": "ramal",
+  "rodovia": "AV. PAU BRASIL",
+  "ramal_key": "RMSGC_684",
+  "municipio": "SÃ£o Gabriel da Cachoeira"
+ },
+ {
+  "arquivo": "RMSIL_753.kmz",
+  "url": "kml/ramais/RMSIL_753.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSIL_753",
+  "municipio": "Silves"
+ },
+ {
+  "arquivo": "RMSIL_754.kmz",
+  "url": "kml/ramais/RMSIL_754.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSIL_754",
+  "municipio": "Silves"
+ },
+ {
+  "arquivo": "RMSIL_755.kmz",
+  "url": "kml/ramais/RMSIL_755.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSIL_755",
+  "municipio": "Silves"
+ },
+ {
+  "arquivo": "RMSIL_756.kmz",
+  "url": "kml/ramais/RMSIL_756.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSIL_756",
+  "municipio": "Silves"
+ },
+ {
+  "arquivo": "RMSIL_757.kmz",
+  "url": "kml/ramais/RMSIL_757.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSIL_757",
+  "municipio": "Silves"
+ },
+ {
+  "arquivo": "RMSIL_758.kmz",
+  "url": "kml/ramais/RMSIL_758.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSIL_758",
+  "municipio": "Silves"
+ },
+ {
+  "arquivo": "RMSIN_729.kmz",
+  "url": "kml/ramais/RMSIN_729.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMSIN_729",
+  "municipio": "Santa Isabel do Rio Negro"
+ },
+ {
+  "arquivo": "RMSIN_730.kmz",
+  "url": "kml/ramais/RMSIN_730.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMSIN_730",
+  "municipio": "Santa Isabel do Rio Negro"
+ },
+ {
+  "arquivo": "RMSIN_731.kmz",
+  "url": "kml/ramais/RMSIN_731.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMSIN_731",
+  "municipio": "Santa Isabel do Rio Negro"
+ },
+ {
+  "arquivo": "RMSIN_893.kmz",
+  "url": "kml/ramais/RMSIN_893.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-170",
+  "ramal_key": "RMSIN_893",
+  "municipio": "Santa Isabel do Rio Negro"
+ },
+ {
+  "arquivo": "RMSPO_456.kmz",
+  "url": "kml/ramais/RMSPO_456.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. DEZ DE NOVEMBRO",
+  "ramal_key": "RMSPO_456",
+  "municipio": "SÃ£o Paulo de OlivenÃ§a"
+ },
+ {
+  "arquivo": "RMSPO_457.kmz",
+  "url": "kml/ramais/RMSPO_457.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. TIRADENTES",
+  "ramal_key": "RMSPO_457",
+  "municipio": "SÃ£o Paulo de OlivenÃ§a"
+ },
+ {
+  "arquivo": "RMSPO_458.kmz",
+  "url": "kml/ramais/RMSPO_458.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA ARAJATUBA",
+  "ramal_key": "RMSPO_458",
+  "municipio": "SÃ£o Paulo de OlivenÃ§a"
+ },
+ {
+  "arquivo": "RMSPO_459.kmz",
+  "url": "kml/ramais/RMSPO_459.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA ARAJATUBA",
+  "ramal_key": "RMSPO_459",
+  "municipio": "SÃ£o Paulo de OlivenÃ§a"
+ },
+ {
+  "arquivo": "RMSPO_460.kmz",
+  "url": "kml/ramais/RMSPO_460.kmz",
+  "tipo": "ramal",
+  "rodovia": "R.R BRANCO",
+  "ramal_key": "RMSPO_460",
+  "municipio": "SÃ£o Paulo de OlivenÃ§a"
+ },
+ {
+  "arquivo": "RMSSU_727.kmz",
+  "url": "kml/ramais/RMSSU_727.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSSU_727",
+  "municipio": "SÃ£o SebastiÃ£o do UatumÃ£"
+ },
+ {
+  "arquivo": "RMSSU_891.kmz",
+  "url": "kml/ramais/RMSSU_891.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSSU_891",
+  "municipio": "SÃ£o SebastiÃ£o do UatumÃ£"
+ },
+ {
+  "arquivo": "RMSSU_892.kmz",
+  "url": "kml/ramais/RMSSU_892.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-363",
+  "ramal_key": "RMSSU_892",
+  "municipio": "SÃ£o SebastiÃ£o do UatumÃ£"
+ },
+ {
+  "arquivo": "RMTAB_461.kmz",
+  "url": "kml/ramais/RMTAB_461.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. LINHA GEODESICA",
+  "ramal_key": "RMTAB_461",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_462.kmz",
+  "url": "kml/ramais/RMTAB_462.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. LINHA GEODESICA",
+  "ramal_key": "RMTAB_462",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_463.kmz",
+  "url": "kml/ramais/RMTAB_463.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA PERIMENTRAL NORTE II",
+  "ramal_key": "RMTAB_463",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_732.kmz",
+  "url": "kml/ramais/RMTAB_732.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA PERIMENTAL NORTE II",
+  "ramal_key": "RMTAB_732",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_733.kmz",
+  "url": "kml/ramais/RMTAB_733.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA PERIMENTAL NORTE I",
+  "ramal_key": "RMTAB_733",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_734.kmz",
+  "url": "kml/ramais/RMTAB_734.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GEODÃSICA II",
+  "ramal_key": "RMTAB_734",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_735.kmz",
+  "url": "kml/ramais/RMTAB_735.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GEODÃSICA II",
+  "ramal_key": "RMTAB_735",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_736.kmz",
+  "url": "kml/ramais/RMTAB_736.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DEUS Ã BOM I",
+  "ramal_key": "RMTAB_736",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_737.kmz",
+  "url": "kml/ramais/RMTAB_737.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GEODÃSICA II",
+  "ramal_key": "RMTAB_737",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_738.kmz",
+  "url": "kml/ramais/RMTAB_738.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVO PARAÃSO",
+  "ramal_key": "RMTAB_738",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_739.kmz",
+  "url": "kml/ramais/RMTAB_739.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL SÃO JOÃO",
+  "ramal_key": "RMTAB_739",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_740.kmz",
+  "url": "kml/ramais/RMTAB_740.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GEODÃSICA III",
+  "ramal_key": "RMTAB_740",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAB_741.kmz",
+  "url": "kml/ramais/RMTAB_741.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL DO kURUPIRA",
+  "ramal_key": "RMTAB_741",
+  "municipio": "Tabatinga"
+ },
+ {
+  "arquivo": "RMTAP_887.kmz",
+  "url": "kml/ramais/RMTAP_887.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMTAP_887",
+  "municipio": "TapauÃ¡"
+ },
+ {
+  "arquivo": "RMTAP_888.kmz",
+  "url": "kml/ramais/RMTAP_888.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA S.I",
+  "ramal_key": "RMTAP_888",
+  "municipio": "TapauÃ¡"
+ },
+ {
+  "arquivo": "RMTAP_889.kmz",
+  "url": "kml/ramais/RMTAP_889.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL S.I",
+  "ramal_key": "RMTAP_889",
+  "municipio": "TapauÃ¡"
+ },
+ {
+  "arquivo": "RMTAP_890.kmz",
+  "url": "kml/ramais/RMTAP_890.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB. RAMAL S.I",
+  "ramal_key": "RMTAP_890",
+  "municipio": "TapauÃ¡"
+ },
+ {
+  "arquivo": "RMTEF_464.kmz",
+  "url": "kml/ramais/RMTEF_464.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMTEF_464",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_465.kmz",
+  "url": "kml/ramais/RMTEF_465.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMTEF_465",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_466.kmz",
+  "url": "kml/ramais/RMTEF_466.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO AEROPORTO",
+  "ramal_key": "RMTEF_466",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_467.kmz",
+  "url": "kml/ramais/RMTEF_467.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTEF_467",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_543.kmz",
+  "url": "kml/ramais/RMTEF_543.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMTEF_543",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_680.kmz",
+  "url": "kml/ramais/RMTEF_680.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMTEF_680",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_681.kmz",
+  "url": "kml/ramais/RMTEF_681.kmz",
+  "tipo": "ramal",
+  "rodovia": "AEROPORTO TEFÃ",
+  "ramal_key": "RMTEF_681",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_685.kmz",
+  "url": "kml/ramais/RMTEF_685.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. BRASÃLIA",
+  "ramal_key": "RMTEF_685",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_686.kmz",
+  "url": "kml/ramais/RMTEF_686.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO BEXIGA",
+  "ramal_key": "RMTEF_686",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTEF_783.kmz",
+  "url": "kml/ramais/RMTEF_783.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTEF_783",
+  "municipio": "TefÃ©"
+ },
+ {
+  "arquivo": "RMTON_728.kmz",
+  "url": "kml/ramais/RMTON_728.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. ALFREDO PESSOA",
+  "ramal_key": "RMTON_728",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_878.kmz",
+  "url": "kml/ramais/RMTON_878.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_878",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_879.kmz",
+  "url": "kml/ramais/RMTON_879.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA COMUNIDADE SÃO FELIX",
+  "ramal_key": "RMTON_879",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_880.kmz",
+  "url": "kml/ramais/RMTON_880.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL S.I",
+  "ramal_key": "RMTON_880",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_881.kmz",
+  "url": "kml/ramais/RMTON_881.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_881",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_882.kmz",
+  "url": "kml/ramais/RMTON_882.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_882",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_883.kmz",
+  "url": "kml/ramais/RMTON_883.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_883",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_884.kmz",
+  "url": "kml/ramais/RMTON_884.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_884",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_885.kmz",
+  "url": "kml/ramais/RMTON_885.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_885",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMTON_886.kmz",
+  "url": "kml/ramais/RMTON_886.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMTON_886",
+  "municipio": "Tonantins"
+ },
+ {
+  "arquivo": "RMUAR_872.kmz",
+  "url": "kml/ramais/RMUAR_872.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-249",
+  "ramal_key": "RMUAR_872",
+  "municipio": "Uarini"
+ },
+ {
+  "arquivo": "RMUAR_873.kmz",
+  "url": "kml/ramais/RMUAR_873.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-249",
+  "ramal_key": "RMUAR_873",
+  "municipio": "Uarini"
+ },
+ {
+  "arquivo": "RMUAR_874.kmz",
+  "url": "kml/ramais/RMUAR_874.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-249",
+  "ramal_key": "RMUAR_874",
+  "municipio": "Uarini"
+ },
+ {
+  "arquivo": "RMUAR_875.kmz",
+  "url": "kml/ramais/RMUAR_875.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUAR_875",
+  "municipio": "Uarini"
+ },
+ {
+  "arquivo": "RMUAR_876.kmz",
+  "url": "kml/ramais/RMUAR_876.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUAR_876",
+  "municipio": "Uarini"
+ },
+ {
+  "arquivo": "RMUCA_472.kmz",
+  "url": "kml/ramais/RMUCA_472.kmz",
+  "tipo": "ramal",
+  "rodovia": "PR. RAIMUNDO WILSON",
+  "ramal_key": "RMUCA_472",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_473.kmz",
+  "url": "kml/ramais/RMUCA_473.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-326",
+  "ramal_key": "RMUCA_473",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_759.kmz",
+  "url": "kml/ramais/RMUCA_759.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCA_759",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_760.kmz",
+  "url": "kml/ramais/RMUCA_760.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCA_760",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_761.kmz",
+  "url": "kml/ramais/RMUCA_761.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCA_761",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_762.kmz",
+  "url": "kml/ramais/RMUCA_762.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCA_762",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_763.kmz",
+  "url": "kml/ramais/RMUCA_763.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GILBERTO MESTRINHO",
+  "ramal_key": "RMUCA_763",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_764.kmz",
+  "url": "kml/ramais/RMUCA_764.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-326",
+  "ramal_key": "RMUCA_764",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_765.kmz",
+  "url": "kml/ramais/RMUCA_765.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-326",
+  "ramal_key": "RMUCA_765",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_766.kmz",
+  "url": "kml/ramais/RMUCA_766.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-326",
+  "ramal_key": "RMUCA_766",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_767.kmz",
+  "url": "kml/ramais/RMUCA_767.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DA COLÃNIA SÃO JOÃO",
+  "ramal_key": "RMUCA_767",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_768.kmz",
+  "url": "kml/ramais/RMUCA_768.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-326",
+  "ramal_key": "RMUCA_768",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_769.kmz",
+  "url": "kml/ramais/RMUCA_769.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-326",
+  "ramal_key": "RMUCA_769",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_770.kmz",
+  "url": "kml/ramais/RMUCA_770.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_770",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_771.kmz",
+  "url": "kml/ramais/RMUCA_771.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_771",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_772.kmz",
+  "url": "kml/ramais/RMUCA_772.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_772",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_773.kmz",
+  "url": "kml/ramais/RMUCA_773.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_773",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_774.kmz",
+  "url": "kml/ramais/RMUCA_774.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_774",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_775.kmz",
+  "url": "kml/ramais/RMUCA_775.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_775",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_776.kmz",
+  "url": "kml/ramais/RMUCA_776.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL NOVA ESPERANÃA",
+  "ramal_key": "RMUCA_776",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_777.kmz",
+  "url": "kml/ramais/RMUCA_777.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCA_777",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_778.kmz",
+  "url": "kml/ramais/RMUCA_778.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GILBERTO MESTRINHO",
+  "ramal_key": "RMUCA_778",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCA_877.kmz",
+  "url": "kml/ramais/RMUCA_877.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA GILBRTO MESTRINHO",
+  "ramal_key": "RMUCA_877",
+  "municipio": "UrucarÃ¡"
+ },
+ {
+  "arquivo": "RMUCT_798.kmz",
+  "url": "kml/ramais/RMUCT_798.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCT_798",
+  "municipio": "Urucurituba"
+ },
+ {
+  "arquivo": "RMUCT_799.kmz",
+  "url": "kml/ramais/RMUCT_799.kmz",
+  "tipo": "ramal",
+  "rodovia": "-",
+  "ramal_key": "RMUCT_799",
+  "municipio": "Urucurituba"
  }
 ]
