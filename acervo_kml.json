@@ -1,0 +1,410 @@
+[
+ {
+  "arquivo": "am-010.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-010/am-010.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-010",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "km-47-am-010.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-010/km-47-am-010.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-010",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-020.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-020/am-020.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-020",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-070.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-070/am-070.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-070",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-254.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-254/am-254.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-254",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "km-71.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-256/km-71.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-256",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "km-81.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-256/km-81.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-256",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-352.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-352/am-352.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-352",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-354.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-354/am-354.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-354",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-453-nc-nao-conformidades.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-453/am-453-nc-nao-conformidades.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-453",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "am-453.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/am-453/am-453.kmz",
+  "tipo": "rodovia",
+  "rodovia": "AM-453",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "br174.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/1-rodovias/br-174/br174.kmz",
+  "tipo": "rodovia",
+  "rodovia": "BR-174",
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "rmita_183-estrada-do-novo-remanso.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-010/estrada-do-novo-remanso/rmita_183-estrada-do-novo-remanso.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_183",
+  "municipio": "ITACOATIARA"
+ },
+ {
+  "arquivo": "rmmao_251-ramal-agua-branca.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-010/ramal-agua-branca/rmmao_251-ramal-agua-branca.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_251",
+  "municipio": "MANAUS"
+ },
+ {
+  "arquivo": "rmrpe_448-ramal-manapolis.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-010/ramal-manapolis/rmrpe_448-ramal-manapolis.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_448",
+  "municipio": "RIO PRETO DA EVA"
+ },
+ {
+  "arquivo": "rmmao_334-ramal-santo-antonio.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-010/ramal-santo-antonio/rmmao_334-ramal-santo-antonio.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMMAO_334",
+  "municipio": "MANAUS"
+ },
+ {
+  "arquivo": "rmrpe_455-ramal-sulivan-portela.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-010/ramal-sulivan-portela/rmrpe_455-ramal-sulivan-portela.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMRPE_455",
+  "municipio": "RIO PRETO DA EVA"
+ },
+ {
+  "arquivo": "rmita_138-ramal-terra-preta.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-010/ramal-terra-preta/rmita_138-ramal-terra-preta.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-010",
+  "ramal_key": "RMITA_138",
+  "municipio": "ITACOATIARA"
+ },
+ {
+  "arquivo": "rmira_118-ramal-do-janauari.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-070/ramal-do-janauari/rmira_118-ramal-do-janauari.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-070",
+  "ramal_key": "RMIRA_118",
+  "municipio": "IRANDUBA"
+ },
+ {
+  "arquivo": "rmprf_399-ramal-da-morena.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-240/ramal-da-morena/rmprf_399-ramal-da-morena.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_399",
+  "municipio": "PRESIDENTE FIGUEIREDO"
+ },
+ {
+  "arquivo": "rmprf_388-ramal-marcos-freire-1.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-240/ramal-marcos-freire-1/rmprf_388-ramal-marcos-freire-1.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_388",
+  "municipio": "PRESIDENTE FIGUEIREDO"
+ },
+ {
+  "arquivo": "rmprf_390-ramal-marcos-freire-2.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-240/ramal-marcos-freire-2/rmprf_390-ramal-marcos-freire-2.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_390",
+  "municipio": "PRESIDENTE FIGUEIREDO"
+ },
+ {
+  "arquivo": "rmprf_389-sub.-ramal-marcos-freie-1-km-8.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-240/sub.-ramal-marcos-freie-1-km-8/rmprf_389-sub.-ramal-marcos-freie-1-km-8.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-240",
+  "ramal_key": "RMPRF_389",
+  "municipio": "PRESIDENTE FIGUEIREDO"
+ },
+ {
+  "arquivo": "rmatz_27-ramal-do-marechal-rondon.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-254/ramal-do-marechal-rondon/rmatz_27-ramal-do-marechal-rondon.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_27",
+  "municipio": "AUTAZES"
+ },
+ {
+  "arquivo": "rmatz_28-ramal-sao-felix.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-254/ramal-sao-felix/rmatz_28-ramal-sao-felix.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-254",
+  "ramal_key": "RMATZ_28",
+  "municipio": "AUTAZES"
+ },
+ {
+  "arquivo": "rmmaq_244-ramal-do-barro-alto-2.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-354/ramal-do-barro-alto/rmmaq_244-ramal-do-barro-alto-2.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_244",
+  "municipio": "MANAQUIRI"
+ },
+ {
+  "arquivo": "rmmaq_244-ramal-do-barro-alto.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-354/ramal-do-barro-alto/rmmaq_244-ramal-do-barro-alto.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-354",
+  "ramal_key": "RMMAQ_244",
+  "municipio": "MANAQUIRI"
+ },
+ {
+  "arquivo": "rmtef_465-ramal-do-pavao.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-366/ramal-do-pavao/rmtef_465-ramal-do-pavao.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-366",
+  "ramal_key": "RMTEF_465",
+  "municipio": "TEFÃ"
+ },
+ {
+  "arquivo": "rmira_126-ramal-do-jandira.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/am-452/ramal-do-jandira/rmira_126-ramal-do-jandira.kmz",
+  "tipo": "ramal",
+  "rodovia": "AM-452",
+  "ramal_key": "RMIRA_126",
+  "municipio": "IRANDUBA"
+ },
+ {
+  "arquivo": "rmmao_330-ramal-do-pau-rosa.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/br-174/ramal-do-pau-rosa/rmmao_330-ramal-do-pau-rosa.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-174",
+  "ramal_key": "RMMAO_330",
+  "municipio": "MANAUS"
+ },
+ {
+  "arquivo": "rmcro_65-ramal-cabeceira-do-purupuru-2.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/br-319/ramal-cabeceira-do-purupuru/rmcro_65-ramal-cabeceira-do-purupuru-2.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_65",
+  "municipio": "CAREIRO"
+ },
+ {
+  "arquivo": "rmcro_65-ramal-cabeceira-do-purupuru.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/br-319/ramal-cabeceira-do-purupuru/rmcro_65-ramal-cabeceira-do-purupuru.kmz",
+  "tipo": "ramal",
+  "rodovia": "BR-319",
+  "ramal_key": "RMCRO_65",
+  "municipio": "CAREIRO"
+ },
+ {
+  "arquivo": "rmbba_45-estrada-do-mapia.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/estrada-borba-mapia/estrada-do-mapia/rmbba_45-estrada-do-mapia.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA BORBA MAPIÃ",
+  "ramal_key": "RMBBA_45",
+  "municipio": "BORBA"
+ },
+ {
+  "arquivo": "rmgua_74-ramal-do-porto-do-acai.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/estrada-da-floresta/ramal-do-porto-do-acai/rmgua_74-ramal-do-porto-do-acai.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DA FLORESTA",
+  "ramal_key": "RMGUA_74",
+  "municipio": "GUAJARÃ"
+ },
+ {
+  "arquivo": "rmita_184-estrada-do-engenho.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/estrada-do-novo-remanso/estrada-do-engenho/rmita_184-estrada-do-engenho.kmz",
+  "tipo": "ramal",
+  "rodovia": "ESTRADA DO NOVO REMANSO",
+  "ramal_key": "RMITA_184",
+  "municipio": "ITACOATIARA"
+ },
+ {
+  "arquivo": "rmspo_456-estrada-joaquim-santana.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/r.-dez-de-novembro/estrada-joaquim-santana/rmspo_456-estrada-joaquim-santana.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. DEZ DE NOVEMBRO",
+  "ramal_key": "RMSPO_456",
+  "municipio": "SÃO PAULO DE OLIVENÃA"
+ },
+ {
+  "arquivo": "rmcoi_72-estrada-de-coari-itapeua.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/r.-genival-guerra/estrada-de-coari-itapeua/rmcoi_72-estrada-de-coari-itapeua.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. GENIVAL GUERRA",
+  "ramal_key": "RMCOI_72",
+  "municipio": "COARI"
+ },
+ {
+  "arquivo": "rmmao_325-ramal-do-brasileirinho.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/r.-gergelim/ramal-do-brasileirinho/rmmao_325-ramal-do-brasileirinho.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. GERGELIM",
+  "ramal_key": "RMMAO_325",
+  "municipio": "MANAUS"
+ },
+ {
+  "arquivo": "rmcod_73-estrada-de-codajas-anori.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/r.-getulio-vargas/estrada-de-codajas-anori/rmcod_73-estrada-de-codajas-anori.kmz",
+  "tipo": "ramal",
+  "rodovia": "R. GETÃLIO VARGAS",
+  "ramal_key": "RMCOD_73",
+  "municipio": "CODAJÃS"
+ },
+ {
+  "arquivo": "rmmao_256-estrada-adolpho-ducke.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/ramal-agua-branca/estrada-adolpho-ducke/rmmao_256-estrada-adolpho-ducke.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL ÃGUA BRANCA",
+  "ramal_key": "RMMAO_256",
+  "municipio": "MANAUS"
+ },
+ {
+  "arquivo": "rmmao_331-ramal-da-cooperativa.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/ramal-do-pau-rosa/ramal-da-cooperativa/rmmao_331-ramal-da-cooperativa.kmz",
+  "tipo": "ramal",
+  "rodovia": "RAMAL DO PAU ROSA",
+  "ramal_key": "RMMAO_331",
+  "municipio": "MANAUS"
+ },
+ {
+  "arquivo": "rmcrv_71-sub.-ramal-do-sissaima.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/sub.ramal-do-miriti/sub.-ramal-do-sissaima/rmcrv_71-sub.-ramal-do-sissaima.kmz",
+  "tipo": "ramal",
+  "rodovia": "SUB.RAMAL DO MIRITI",
+  "ramal_key": "RMCRV_71",
+  "municipio": "CAREIRO DA VÃRZEA"
+ },
+ {
+  "arquivo": "am-174.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/_sem-correspondencia/am-174/am-174.kmz",
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "estrada-novo-aripuana-apui.kml",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/_sem-correspondencia/estrada-novo-aripuana-apui/estrada-novo-aripuana-apui.kml",
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "ramal-do-itauba.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/_sem-correspondencia/ramal-do-itauba/ramal-do-itauba.kmz",
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "ramal-do-km-11.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/_sem-correspondencia/ramal-do-km-11/ramal-do-km-11.kmz",
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "ramal-do-km-15-br-174.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/2-ramais/_sem-correspondencia/ramal-do-km-15-br-174/ramal-do-km-15-br-174.kmz",
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "ext-ramais-da-am-070.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/4-colecoes/ext-ramais-da-am-070.kmz",
+  "tipo": "colecao",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "ramais-catalogados.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/4-colecoes/ramais-catalogados.kmz",
+  "tipo": "colecao",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "ramal.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/4-colecoes/ramal.kmz",
+  "tipo": "colecao",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ },
+ {
+  "arquivo": "rodovia.kmz",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/kml/4-colecoes/rodovia.kmz",
+  "tipo": "colecao",
+  "rodovia": null,
+  "ramal_key": null,
+  "municipio": null
+ }
+]

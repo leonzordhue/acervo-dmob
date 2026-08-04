@@ -1,0 +1,24 @@
+[
+ {
+  "tipo": "rodovia",
+  "titulo": "Rodovias estaduais (todas)",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.shp",
+  "arquivos": [
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.shp",
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.shx",
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.dbf",
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.prj"
+  ]
+ },
+ {
+  "tipo": "ramal",
+  "titulo": "Ramais (todos)",
+  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.shp",
+  "arquivos": [
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.shp",
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.shx",
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.dbf",
+   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.prj"
+  ]
+ }
+]

@@ -1,0 +1,13 @@
+# fotos ficam no Google Drive, nao no repo
+fotos/
+thumbs/
+
+# viario nao entra no acervo (so ramal e rodovia)
+kml/3-viarios/
+kml/4-colecoes/sistemas-viarios-amazonas.kmz
+kml/4-colecoes/aeroporto.kmz
+kml/4-colecoes/terminal.kmz
+kml/4-colecoes/viario.kmz
+kml/4-colecoes/tapaua.kmz
+kml/4-colecoes/tonantins.kmz
+kml/4-colecoes/uarini.kmz

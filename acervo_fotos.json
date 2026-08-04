@@ -1,0 +1,802 @@
+[
+ {
+  "tipo": "rodovia",
+  "chave": "AM-010",
+  "rodovia": "AM-010",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 207,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-020",
+  "rodovia": "AM-020",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 87,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-070",
+  "rodovia": "AM-070",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 221,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-151",
+  "rodovia": "AM-151",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 32,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-239",
+  "rodovia": "AM-239",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 28,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-240",
+  "rodovia": "AM-240",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-249",
+  "rodovia": "AM-249",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 38,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-254",
+  "rodovia": "AM-254",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 33,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-328",
+  "rodovia": "AM-328",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 5,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-336",
+  "rodovia": "AM-336",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 13,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-351",
+  "rodovia": "AM-351",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 6,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-352",
+  "rodovia": "AM-352",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 268,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-362",
+  "rodovia": "AM-362",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 109,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-363",
+  "rodovia": "AM-363",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 53,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-366",
+  "rodovia": "AM-366",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 47,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-450",
+  "rodovia": "AM-450",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-451",
+  "rodovia": "AM-451",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 27,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-452",
+  "rodovia": "AM-452",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 88,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "AM-453",
+  "rodovia": "AM-453",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 149,
+  "drive_url": null
+ },
+ {
+  "tipo": "rodovia",
+  "chave": "BR-174",
+  "rodovia": "BR-174",
+  "ramal": null,
+  "ramal_key": null,
+  "municipio": null,
+  "n_fotos": 15,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Alvarães / RAMAL DO BAÚ",
+  "rodovia": null,
+  "ramal": "RAMAL DO BAÚ",
+  "ramal_key": null,
+  "municipio": "Alvarães",
+  "n_fotos": 10,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Alvarães / RAMAL DO CATUIRI-FATIMO",
+  "rodovia": null,
+  "ramal": "RAMAL DO CATUIRI-FATIMO",
+  "ramal_key": "RMALV_613",
+  "municipio": "Alvarães",
+  "n_fotos": 9,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Alvarães / RAMAL IDESIA - CACHOEIRINHA",
+  "rodovia": null,
+  "ramal": "RAMAL IDESIA - CACHOEIRINHA",
+  "ramal_key": "RMALV_615",
+  "municipio": "Alvarães",
+  "n_fotos": 9,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / ESTRADA DO SAMPAIO",
+  "rodovia": null,
+  "ramal": "ESTRADA DO SAMPAIO",
+  "ramal_key": "RMATZ_36",
+  "municipio": "Autazes",
+  "n_fotos": 23,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / RAMAL DO AÇUPURANGA",
+  "rodovia": null,
+  "ramal": "RAMAL DO AÇUPURANGA",
+  "ramal_key": null,
+  "municipio": "Autazes",
+  "n_fotos": 30,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / RAMAL DO BACURI 2",
+  "rodovia": null,
+  "ramal": "RAMAL DO BACURI 2",
+  "ramal_key": "RMATZ_35",
+  "municipio": "Autazes",
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / RAMAL DO HSL",
+  "rodovia": null,
+  "ramal": "RAMAL DO HSL",
+  "ramal_key": "RMATZ_16",
+  "municipio": "Autazes",
+  "n_fotos": 24,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / RAMAL DO JATUÁ",
+  "rodovia": null,
+  "ramal": "RAMAL DO JATUÁ",
+  "ramal_key": "RMATZ_15",
+  "municipio": "Autazes",
+  "n_fotos": 13,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / RAMAL DO KM 29 - AM-254",
+  "rodovia": null,
+  "ramal": "RAMAL DO KM 29 - AM-254",
+  "ramal_key": "RMATZ_8",
+  "municipio": "Autazes",
+  "n_fotos": 21,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Autazes / RAMAL DO ROSARINHO",
+  "rodovia": null,
+  "ramal": "RAMAL DO ROSARINHO",
+  "ramal_key": "RMATZ_40",
+  "municipio": "Autazes",
+  "n_fotos": 52,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Barcelos / ESTRADA MARIUÁ",
+  "rodovia": null,
+  "ramal": "ESTRADA MARIUÁ",
+  "ramal_key": "RMBRC_501",
+  "municipio": "Barcelos",
+  "n_fotos": 76,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Borba / ESTRADA DO AEROPORTO",
+  "rodovia": null,
+  "ramal": "ESTRADA DO AEROPORTO",
+  "ramal_key": "RMBBA_512",
+  "municipio": "Borba",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Borba / ESTRADA DO MAPIÁ",
+  "rodovia": null,
+  "ramal": "ESTRADA DO MAPIÁ",
+  "ramal_key": "RMBBA_45",
+  "municipio": "Borba",
+  "n_fotos": 39,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Borba / SUB. RAMAL I - ESTRADA BORBA MAPIÁ",
+  "rodovia": null,
+  "ramal": "SUB. RAMAL I - ESTRADA BORBA MAPIÁ",
+  "ramal_key": "RMBBA_636",
+  "municipio": "Borba",
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Carauari / ESTRADA DO GAVIÃO",
+  "rodovia": null,
+  "ramal": "ESTRADA DO GAVIÃO",
+  "ramal_key": "RMCAR_521",
+  "municipio": "Carauari",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Carauari / ESTRADA DO RIOZINHO",
+  "rodovia": null,
+  "ramal": "ESTRADA DO RIOZINHO",
+  "ramal_key": "RMCAR_518",
+  "municipio": "Carauari",
+  "n_fotos": 9,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Careiro / RAMAL CABECEIRA DO PURUPURU",
+  "rodovia": null,
+  "ramal": "RAMAL CABECEIRA DO PURUPURU",
+  "ramal_key": "RMCRO_65",
+  "municipio": "Careiro",
+  "n_fotos": 29,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Careiro / RAMAL DO CINTURÃO VERDE",
+  "rodovia": null,
+  "ramal": "RAMAL DO CINTURÃO VERDE",
+  "ramal_key": "RMCRO_66",
+  "municipio": "Careiro",
+  "n_fotos": 38,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Careiro / RAMAL DO KM 12 - AM-254",
+  "rodovia": null,
+  "ramal": "RAMAL DO KM 12 - AM-254",
+  "ramal_key": "RMCRO_55",
+  "municipio": "Careiro",
+  "n_fotos": 22,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Careiro / RAMAL SÃO JOSÉ",
+  "rodovia": null,
+  "ramal": "RAMAL SÃO JOSÉ",
+  "ramal_key": null,
+  "municipio": "Careiro",
+  "n_fotos": 38,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Humaitá / ESTRADA DA PORTOBRÁS",
+  "rodovia": null,
+  "ramal": "ESTRADA DA PORTOBRÁS",
+  "ramal_key": "RMHUM_522",
+  "municipio": "Humaitá",
+  "n_fotos": 4,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Humaitá / RAMAL DOS PARAGUAIOS",
+  "rodovia": null,
+  "ramal": "RAMAL DOS PARAGUAIOS",
+  "ramal_key": "RMHUM_571",
+  "municipio": "Humaitá",
+  "n_fotos": 8,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL CACHOEIRA DO CASTANHO",
+  "rodovia": null,
+  "ramal": "RAMAL CACHOEIRA DO CASTANHO",
+  "ramal_key": "RMIRA_128",
+  "municipio": "Iranduba",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO AREAL",
+  "rodovia": null,
+  "ramal": "RAMAL DO AREAL",
+  "ramal_key": "RMMAO_336",
+  "municipio": "Iranduba",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO AÇUTUBA",
+  "rodovia": null,
+  "ramal": "RAMAL DO AÇUTUBA",
+  "ramal_key": null,
+  "municipio": "Iranduba",
+  "n_fotos": 6,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO CREUZA",
+  "rodovia": null,
+  "ramal": "RAMAL DO CREUZA",
+  "ramal_key": "RMIRA_779",
+  "municipio": "Iranduba",
+  "n_fotos": 17,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO KM 15 - AM-070",
+  "rodovia": null,
+  "ramal": "RAMAL DO KM 15 - AM-070",
+  "ramal_key": "RMIRA_113",
+  "municipio": "Iranduba",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO KM 27 - AM-070",
+  "rodovia": null,
+  "ramal": "RAMAL DO KM 27 - AM-070",
+  "ramal_key": "RMIRA_104",
+  "municipio": "Iranduba",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO KM 9 - AM-070",
+  "rodovia": null,
+  "ramal": "RAMAL DO KM 9 - AM-070",
+  "ramal_key": "RMIRA_114",
+  "municipio": "Iranduba",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO LAGO DO LIMÃO",
+  "rodovia": null,
+  "ramal": "RAMAL DO LAGO DO LIMÃO",
+  "ramal_key": "RMIRA_97",
+  "municipio": "Iranduba",
+  "n_fotos": 5,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DO PARICATUBA",
+  "rodovia": null,
+  "ramal": "RAMAL DO PARICATUBA",
+  "ramal_key": "RMIRA_107",
+  "municipio": "Iranduba",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL DOS BONS AMIGOS",
+  "rodovia": null,
+  "ramal": "RAMAL DOS BONS AMIGOS",
+  "ramal_key": "RMIRA_123",
+  "municipio": "Iranduba",
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL LINDO AMANHECER",
+  "rodovia": null,
+  "ramal": "RAMAL LINDO AMANHECER",
+  "ramal_key": "RMIRA_127",
+  "municipio": "Iranduba",
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL OITO DE OUTUBRO",
+  "rodovia": null,
+  "ramal": "RAMAL OITO DE OUTUBRO",
+  "ramal_key": "RMIRA_854",
+  "municipio": "Iranduba",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL OURO VERDE",
+  "rodovia": null,
+  "ramal": "RAMAL OURO VERDE",
+  "ramal_key": "RMIRA_115",
+  "municipio": "Iranduba",
+  "n_fotos": 4,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL PIC BELA VISTA",
+  "rodovia": null,
+  "ramal": "RAMAL PIC BELA VISTA",
+  "ramal_key": "RMIRA_855",
+  "municipio": "Iranduba",
+  "n_fotos": 15,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Iranduba / RAMAL SANTA MARIA",
+  "rodovia": null,
+  "ramal": "RAMAL SANTA MARIA",
+  "ramal_key": "RMIRA_95",
+  "municipio": "Iranduba",
+  "n_fotos": 7,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Itacoatiara / RAMAL DA FAZENDA ITAPIRANGA",
+  "rodovia": null,
+  "ramal": "RAMAL DA FAZENDA ITAPIRANGA",
+  "ramal_key": "RMITA_140",
+  "municipio": "Itacoatiara",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Itacoatiara / RAMAL DA UNIDADE PRISIONAL",
+  "rodovia": null,
+  "ramal": "RAMAL DA UNIDADE PRISIONAL",
+  "ramal_key": "RMITA_149",
+  "municipio": "Itacoatiara",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Itacoatiara / RAMAL DO JACAMIM",
+  "rodovia": null,
+  "ramal": "RAMAL DO JACAMIM",
+  "ramal_key": "RMITA_170",
+  "municipio": "Itacoatiara",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Juruá / ESTRADA DO JAPÓ",
+  "rodovia": null,
+  "ramal": "ESTRADA DO JAPÓ",
+  "ramal_key": null,
+  "municipio": "Juruá",
+  "n_fotos": 8,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Juruá / RAMAL IGARAPÉ GRANDE",
+  "rodovia": null,
+  "ramal": "RAMAL IGARAPÉ GRANDE",
+  "ramal_key": null,
+  "municipio": "Juruá",
+  "n_fotos": 4,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Juruá / SUB. RAMAL DA AGROVILA",
+  "rodovia": null,
+  "ramal": "SUB. RAMAL DA AGROVILA",
+  "ramal_key": "RMJUR_628",
+  "municipio": "Juruá",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / RAMAL ANJO GABRIEL",
+  "rodovia": null,
+  "ramal": "RAMAL ANJO GABRIEL",
+  "ramal_key": "RMMAC_228",
+  "municipio": "Manacapuru",
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / RAMAL DO ACAJATUBA",
+  "rodovia": null,
+  "ramal": "RAMAL DO ACAJATUBA",
+  "ramal_key": "RMMAC_226",
+  "municipio": "Manacapuru",
+  "n_fotos": 2,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / RAMAL DO ARAPAPA",
+  "rodovia": null,
+  "ramal": "RAMAL DO ARAPAPA",
+  "ramal_key": "RMMAC_231",
+  "municipio": "Manacapuru",
+  "n_fotos": 27,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / RAMAL DO MURUCUTUTU",
+  "rodovia": null,
+  "ramal": "RAMAL DO MURUCUTUTU",
+  "ramal_key": "RMMAC_208",
+  "municipio": "Manacapuru",
+  "n_fotos": 10,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / RAMAL NOVA ESPERANÇA",
+  "rodovia": null,
+  "ramal": "RAMAL NOVA ESPERANÇA",
+  "ramal_key": null,
+  "municipio": "Manacapuru",
+  "n_fotos": 20,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / SUB. RAMAL DO PARU",
+  "rodovia": null,
+  "ramal": "SUB. RAMAL DO PARU",
+  "ramal_key": "RMMAC_229",
+  "municipio": "Manacapuru",
+  "n_fotos": 1,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manacapuru / SUB. RAMAL REI DAVI",
+  "rodovia": null,
+  "ramal": "SUB. RAMAL REI DAVI",
+  "ramal_key": "RMMAC_606",
+  "municipio": "Manacapuru",
+  "n_fotos": 10,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manaus / RAMAL DA PETROBRÁS",
+  "rodovia": null,
+  "ramal": "RAMAL DA PETROBRÁS",
+  "ramal_key": "RMMAO_268",
+  "municipio": "Manaus",
+  "n_fotos": 12,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manaus / RAMAL DAS FLORES",
+  "rodovia": null,
+  "ramal": "RAMAL DAS FLORES",
+  "ramal_key": "RMMAO_332",
+  "municipio": "Manaus",
+  "n_fotos": 57,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manaus / RAMAL DO BRASILEIRINHO",
+  "rodovia": null,
+  "ramal": "RAMAL DO BRASILEIRINHO",
+  "ramal_key": "RMMAO_325",
+  "municipio": "Manaus",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manaus / RAMAL DO LEÃO",
+  "rodovia": null,
+  "ramal": "RAMAL DO LEÃO",
+  "ramal_key": "RMMAO_269",
+  "municipio": "Manaus",
+  "n_fotos": 20,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manaus / SUB. RAMAL 01 - RAMAL DO LEÃO",
+  "rodovia": null,
+  "ramal": "SUB. RAMAL 01 - RAMAL DO LEÃO",
+  "ramal_key": "RMMAO_270",
+  "municipio": "Manaus",
+  "n_fotos": 9,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manicoré / ESTRADA DO AEROPORTO",
+  "rodovia": null,
+  "ramal": "ESTRADA DO AEROPORTO",
+  "ramal_key": "RMBBA_512",
+  "municipio": "Manicoré",
+  "n_fotos": 40,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Manicoré / ESTRADA DO SINDICATO",
+  "rodovia": null,
+  "ramal": "ESTRADA DO SINDICATO",
+  "ramal_key": "RMMIC_655",
+  "municipio": "Manicoré",
+  "n_fotos": 3,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Maués / RAMAL DE ACESSO A COMUNIDADE BOM JESUS",
+  "rodovia": null,
+  "ramal": "RAMAL DE ACESSO A COMUNIDADE BOM JESUS",
+  "ramal_key": "RMMAU_722",
+  "municipio": "Maués",
+  "n_fotos": 8,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Rio Preto da Eva / RAMAL DO BANCO",
+  "rodovia": null,
+  "ramal": "RAMAL DO BANCO",
+  "ramal_key": "RMRPE_446",
+  "municipio": "Rio Preto da Eva",
+  "n_fotos": 34,
+  "drive_url": null
+ },
+ {
+  "tipo": "ramal",
+  "chave": "Rio Preto da Eva / RAMAL DO KM 122 - AM-010",
+  "rodovia": null,
+  "ramal": "RAMAL DO KM 122 - AM-010",
+  "ramal_key": "RMRPE_438",
+  "municipio": "Rio Preto da Eva",
+  "n_fotos": 4,
+  "drive_url": null
+ }
+]
