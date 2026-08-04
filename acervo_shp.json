@@ -1,24 +1,668 @@
 [
  {
   "tipo": "rodovia",
-  "titulo": "Rodovias estaduais (todas)",
-  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.shp",
-  "arquivos": [
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.shp",
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.shx",
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.dbf",
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/rodovia/rodovia.prj"
-  ]
+  "rodovia": "AM-010",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-010.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-020",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-020.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-070",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-070.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-151",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-151.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-170",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-170.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-175",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-175.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-239",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-239.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-240",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-240.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-249",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-249.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-254",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-254.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-280",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-280.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-326",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-326.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-328",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-328.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-329",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-329.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-330",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-330.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-336",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-336.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-343",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-343.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-351",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-351.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-352",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-352.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-354",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-354.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-356",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-356.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-360",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-360.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-362",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-362.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-363",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-363.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-364",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-364.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-366",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-366.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-374",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-374.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-378",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-378.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-449",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-449.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-450",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-450.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-451",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-451.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-452",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-452.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-453",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-453.zip"
+ },
+ {
+  "tipo": "rodovia",
+  "rodovia": "AM-466",
+  "ramal_key": null,
+  "url": "shp/rodovias/AM-466.zip"
  },
  {
   "tipo": "ramal",
-  "titulo": "Ramais (todos)",
-  "url": "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.shp",
-  "arquivos": [
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.shp",
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.shx",
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.dbf",
-   "https://raw.githubusercontent.com/leonzordhue/acervo-dmob/main/shp/ramal/ramal.prj"
-  ]
+  "rodovia": null,
+  "ramal_key": "RMALV_613",
+  "url": "shp/ramais/RMALV_613.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMALV_615",
+  "url": "shp/ramais/RMALV_615.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_15",
+  "url": "shp/ramais/RMATZ_15.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_16",
+  "url": "shp/ramais/RMATZ_16.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_27",
+  "url": "shp/ramais/RMATZ_27.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_28",
+  "url": "shp/ramais/RMATZ_28.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_35",
+  "url": "shp/ramais/RMATZ_35.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_36",
+  "url": "shp/ramais/RMATZ_36.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_40",
+  "url": "shp/ramais/RMATZ_40.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMATZ_8",
+  "url": "shp/ramais/RMATZ_8.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMBBA_45",
+  "url": "shp/ramais/RMBBA_45.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMBBA_512",
+  "url": "shp/ramais/RMBBA_512.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMBBA_636",
+  "url": "shp/ramais/RMBBA_636.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMBRC_501",
+  "url": "shp/ramais/RMBRC_501.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCAR_518",
+  "url": "shp/ramais/RMCAR_518.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCAR_521",
+  "url": "shp/ramais/RMCAR_521.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCOD_73",
+  "url": "shp/ramais/RMCOD_73.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCOI_72",
+  "url": "shp/ramais/RMCOI_72.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCRO_55",
+  "url": "shp/ramais/RMCRO_55.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCRO_65",
+  "url": "shp/ramais/RMCRO_65.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCRO_66",
+  "url": "shp/ramais/RMCRO_66.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMCRV_71",
+  "url": "shp/ramais/RMCRV_71.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMGUA_74",
+  "url": "shp/ramais/RMGUA_74.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMHUM_522",
+  "url": "shp/ramais/RMHUM_522.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMHUM_571",
+  "url": "shp/ramais/RMHUM_571.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_104",
+  "url": "shp/ramais/RMIRA_104.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_107",
+  "url": "shp/ramais/RMIRA_107.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_113",
+  "url": "shp/ramais/RMIRA_113.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_114",
+  "url": "shp/ramais/RMIRA_114.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_115",
+  "url": "shp/ramais/RMIRA_115.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_118",
+  "url": "shp/ramais/RMIRA_118.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_123",
+  "url": "shp/ramais/RMIRA_123.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_126",
+  "url": "shp/ramais/RMIRA_126.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_127",
+  "url": "shp/ramais/RMIRA_127.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_128",
+  "url": "shp/ramais/RMIRA_128.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_779",
+  "url": "shp/ramais/RMIRA_779.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_854",
+  "url": "shp/ramais/RMIRA_854.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_855",
+  "url": "shp/ramais/RMIRA_855.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_95",
+  "url": "shp/ramais/RMIRA_95.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMIRA_97",
+  "url": "shp/ramais/RMIRA_97.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMITA_138",
+  "url": "shp/ramais/RMITA_138.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMITA_140",
+  "url": "shp/ramais/RMITA_140.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMITA_149",
+  "url": "shp/ramais/RMITA_149.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMITA_170",
+  "url": "shp/ramais/RMITA_170.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMITA_183",
+  "url": "shp/ramais/RMITA_183.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMITA_184",
+  "url": "shp/ramais/RMITA_184.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMJUR_628",
+  "url": "shp/ramais/RMJUR_628.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAC_208",
+  "url": "shp/ramais/RMMAC_208.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAC_226",
+  "url": "shp/ramais/RMMAC_226.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAC_228",
+  "url": "shp/ramais/RMMAC_228.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAC_229",
+  "url": "shp/ramais/RMMAC_229.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAC_231",
+  "url": "shp/ramais/RMMAC_231.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAC_606",
+  "url": "shp/ramais/RMMAC_606.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_251",
+  "url": "shp/ramais/RMMAO_251.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_256",
+  "url": "shp/ramais/RMMAO_256.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_268",
+  "url": "shp/ramais/RMMAO_268.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_269",
+  "url": "shp/ramais/RMMAO_269.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_270",
+  "url": "shp/ramais/RMMAO_270.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_325",
+  "url": "shp/ramais/RMMAO_325.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_330",
+  "url": "shp/ramais/RMMAO_330.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_331",
+  "url": "shp/ramais/RMMAO_331.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_332",
+  "url": "shp/ramais/RMMAO_332.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_334",
+  "url": "shp/ramais/RMMAO_334.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAO_336",
+  "url": "shp/ramais/RMMAO_336.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAQ_244",
+  "url": "shp/ramais/RMMAQ_244.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMAU_722",
+  "url": "shp/ramais/RMMAU_722.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMMIC_655",
+  "url": "shp/ramais/RMMIC_655.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMPRF_388",
+  "url": "shp/ramais/RMPRF_388.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMPRF_389",
+  "url": "shp/ramais/RMPRF_389.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMPRF_390",
+  "url": "shp/ramais/RMPRF_390.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMPRF_399",
+  "url": "shp/ramais/RMPRF_399.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMRPE_438",
+  "url": "shp/ramais/RMRPE_438.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMRPE_446",
+  "url": "shp/ramais/RMRPE_446.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMRPE_448",
+  "url": "shp/ramais/RMRPE_448.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMRPE_455",
+  "url": "shp/ramais/RMRPE_455.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMSPO_456",
+  "url": "shp/ramais/RMSPO_456.zip"
+ },
+ {
+  "tipo": "ramal",
+  "rodovia": null,
+  "ramal_key": "RMTEF_465",
+  "url": "shp/ramais/RMTEF_465.zip"
  }
 ]
