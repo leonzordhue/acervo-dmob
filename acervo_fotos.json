@@ -204,7 +204,7 @@
   "chave": "Alvarães / RAMAL DO BAÚ",
   "rodovia": null,
   "ramal": "RAMAL DO BAÚ",
-  "ramal_key": null,
+  "ramal_key": "RMALV_612",
   "municipio": "Alvarães",
   "n_fotos": 10,
   "drive_url": "https://drive.google.com/drive/folders/1NQXa7aIW7syS8LB_dmQeudvY4mS3e98y"
@@ -244,7 +244,7 @@
   "chave": "Autazes / RAMAL DO AÇUPURANGA",
   "rodovia": null,
   "ramal": "RAMAL DO AÇUPURANGA",
-  "ramal_key": null,
+  "ramal_key": "RMATZ_13",
   "municipio": "Autazes",
   "n_fotos": 30,
   "drive_url": "https://drive.google.com/drive/folders/13hAgt9erNt4bXGHU4wvPPRmtvWxkaax_"
@@ -394,7 +394,7 @@
   "chave": "Careiro / RAMAL SÃO JOSÉ",
   "rodovia": null,
   "ramal": "RAMAL SÃO JOSÉ",
-  "ramal_key": null,
+  "ramal_key": "RMCRO_528",
   "municipio": "Careiro",
   "n_fotos": 38,
   "drive_url": "https://drive.google.com/drive/folders/1LliXQru2opqMk30h8K5eDBQ_P3PxJcxH"
@@ -444,7 +444,7 @@
   "chave": "Iranduba / RAMAL DO AÇUTUBA",
   "rodovia": null,
   "ramal": "RAMAL DO AÇUTUBA",
-  "ramal_key": null,
+  "ramal_key": "RMIRA_99",
   "municipio": "Iranduba",
   "n_fotos": 6,
   "drive_url": "https://drive.google.com/drive/folders/1j7U7MOOLVU4z4if2amiM-QrRNTmvtuTU"
@@ -604,7 +604,7 @@
   "chave": "Juruá / ESTRADA DO JAPÓ",
   "rodovia": null,
   "ramal": "ESTRADA DO JAPÓ",
-  "ramal_key": null,
+  "ramal_key": "RMJUR_627",
   "municipio": "Juruá",
   "n_fotos": 8,
   "drive_url": "https://drive.google.com/drive/folders/1grasNKu7ST9pL44WX24_0q_m4hAWLdtK"
@@ -614,7 +614,7 @@
   "chave": "Juruá / RAMAL IGARAPÉ GRANDE",
   "rodovia": null,
   "ramal": "RAMAL IGARAPÉ GRANDE",
-  "ramal_key": null,
+  "ramal_key": "RMJUR_185",
   "municipio": "Juruá",
   "n_fotos": 4,
   "drive_url": "https://drive.google.com/drive/folders/135bjU8ZMj6hDNS4ciqVayf7YjCLDyvCz"
@@ -674,7 +674,7 @@
   "chave": "Manacapuru / RAMAL NOVA ESPERANÇA",
   "rodovia": null,
   "ramal": "RAMAL NOVA ESPERANÇA",
-  "ramal_key": null,
+  "ramal_key": "RMMAC_227",
   "municipio": "Manacapuru",
   "n_fotos": 20,
   "drive_url": "https://drive.google.com/drive/folders/1iancVNHMvL-fdXZIcWUC4A-QZz8QLlUL"
